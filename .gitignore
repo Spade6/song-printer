@@ -1,0 +1,4 @@
+node_modules
+song_csv/
+playlist/
+.DS_Store

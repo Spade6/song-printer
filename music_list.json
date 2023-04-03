@@ -1,0 +1,5487 @@
+{
+    "classic": [
+        {
+            "artist": "Tchaikovsky",
+            "title": "1812 overture",
+            "time": "15:09"
+        },
+        {
+            "artist": "Bach",
+            "title": "Toccata and Fugue in D minor",
+            "time": "9:21"
+        },
+        {
+            "artist": "Orff",
+            "title": "Carmina Burana  O Fortuna",
+            "time": "3:39"
+        },
+        {
+            "artist": "Strauss",
+            "title": "Blue Danube Waltz",
+            "time": "9:24"
+        },
+        {
+            "artist": "Verdi",
+            "title": "Requiem  Dies Irae",
+            "time": "5:00"
+        },
+        {
+            "artist": "Mozart",
+            "title": "Requiem  Dies Irae",
+            "time": "2:01"
+        },
+        {
+            "artist": "Offenbach",
+            "title": "Orpheus in the Underworld  Infernal Galop",
+            "time": "5:18"
+        },
+        {
+            "artist": "Beethoven",
+            "title": "7.th Symphony  movement II",
+            "time": "7:15"
+        },
+        {
+            "artist": "Strauss",
+            "title": "Also Sprach Zarathustra",
+            "time": "1:50"
+        },
+        {
+            "artist": "Bizet",
+            "title": "Carmen  Chanson de Toreador",
+            "time": "4:43"
+        },
+        {
+            "artist": "Ravel",
+            "title": "Bolero",
+            "time": "15:34"
+        },
+        {
+            "artist": "Grieg",
+            "title": "Peer Gynt  In the hall of mountain king",
+            "time": "2:42"
+        },
+        {
+            "artist": "Wagner",
+            "title": "Ring des Nibelungen  Ride of the Valkyries",
+            "time": "6:24"
+        },
+        {
+            "artist": "Prokofiev",
+            "title": "Romeo and Juliet  Montagues and Capulets",
+            "time": "5:19"
+        },
+        {
+            "artist": "Brahms",
+            "title": "Hungarian Dance no.5",
+            "time": "3:46"
+        },
+        {
+            "artist": "Gershwin",
+            "title": "Rhapsody in Blue",
+            "time": "13:23"
+        },
+        {
+            "artist": "Mozart",
+            "title": "Requiem  Lacrimosa",
+            "time": "3:21"
+        },
+        {
+            "artist": "Strauss Senior",
+            "title": "Radetzky March",
+            "time": "3:01"
+        },
+        {
+            "artist": "Khachaturian",
+            "title": "Masquerade Waltz",
+            "time": "4:06"
+        },
+        {
+            "artist": "Smetana",
+            "title": "Ma Vlast  Moldau River",
+            "time": "3:01"
+        },
+        {
+            "artist": "Chopin",
+            "title": "Revolutionary Etude",
+            "time": "3:02"
+        },
+        {
+            "artist": "Mahler",
+            "title": "Symphony 5",
+            "time": "10:42"
+        },
+        {
+            "artist": "Mozart",
+            "title": "Requiem  Requiem Aeternam",
+            "time": "5:03"
+        },
+        {
+            "artist": "Vivaldi",
+            "title": "Four Seasons  Winter",
+            "time": "9:27"
+        },
+        {
+            "artist": "Rosas",
+            "title": "Over the Waves",
+            "time": "6:02"
+        },
+        {
+            "artist": "Mussorgski",
+            "title": "Night on the Bald Mountain",
+            "time": "9:41"
+        },
+        {
+            "artist": "Mozart",
+            "title": "Symphony 40",
+            "time": "4:45"
+        },
+        {
+            "artist": "Chopin",
+            "title": "Fantasie Improptu",
+            "time": "6:04"
+        },
+        {
+            "artist": "Tchaikovsky",
+            "title": "Marche Slave",
+            "time": "9:26"
+        },
+        {
+            "artist": "Verdi",
+            "title": "Aida  Triumphal March",
+            "time": "12:05"
+        },
+        {
+            "artist": "Shostakovich",
+            "title": "Second Waltz",
+            "time": "3:49"
+        },
+        {
+            "artist": "Grieg",
+            "title": "Peer Gynt  Death of Aase",
+            "time": "6:00"
+        },
+        {
+            "artist": "Mozart",
+            "title": "Symphony 25",
+            "time": "8:18"
+        },
+        {
+            "artist": "Pergolesi",
+            "title": "Stabat Mater Dolorosa",
+            "time": "4:41"
+        },
+        {
+            "artist": "Verdi",
+            "title": "Nabucco  Va Pensiero(Chorus of the Hebrew Slaves)",
+            "time": "5:16"
+        },
+        {
+            "artist": "Kchachaturian",
+            "title": "Sabre Dance",
+            "time": "2:36"
+        },
+        {
+            "artist": "Dvorak",
+            "title": "Slavonic Dance 8",
+            "time": "4:11"
+        },
+        {
+            "artist": "Fucik",
+            "title": "Entry of the Gladiators",
+            "time": "3:06"
+        },
+        {
+            "artist": "Beethoven",
+            "title": "Moonlight Sonata",
+            "time": "15:00"
+        },
+        {
+            "artist": "Rossini",
+            "title": "William Tell Overture",
+            "time": "3:26"
+        },
+        {
+            "artist": "Grieg",
+            "title": "Piano Concerto",
+            "time": "9:48"
+        },
+        {
+            "artist": "Tchaikovsky",
+            "title": "Piano Concerto I",
+            "time": "20:03"
+        },
+        {
+            "artist": "Grieg",
+            "title": "Peer Gynt  Morning Mood",
+            "time": "6:11"
+        },
+        {
+            "artist": "Tchaikovsky",
+            "title": "Waltz of the Flowers",
+            "time": "7:31"
+        },
+        {
+            "artist": "Strauss",
+            "title": "Wiener Blut",
+            "time": "9:25"
+        },
+        {
+            "artist": "Bizet",
+            "title": "Carmen  Les Toreadors",
+            "time": "2:22"
+        },
+        {
+            "artist": "Vivaldi",
+            "title": "Four Seasons  Spring",
+            "time": "9:59"
+        },
+        {
+            "artist": "Dvorak",
+            "title": "Slavonic Dance 1",
+            "time": "4:44"
+        },
+        {
+            "artist": "Strauss",
+            "title": "Tritsch-Tratsch Polka",
+            "time": "3:31"
+        },
+        {
+            "artist": "Strauss",
+            "title": "Voices of Spring",
+            "time": "5:33"
+        },
+        {
+            "artist": "Verdi",
+            "title": "La traviata  Drinking Song",
+            "time": "3:23"
+        },
+        {
+            "artist": "Tchaikovsky",
+            "title": "Swan Lake Waltz",
+            "time": "7:21"
+        },
+        {
+            "artist": "Prokofiev",
+            "title": "Alexander Nevsky  Crusaders in Pskov",
+            "time": "7:18"
+        },
+        {
+            "artist": "Liszt",
+            "title": "Hungarian Rhapsody 2",
+            "time": "12:55"
+        },
+        {
+            "artist": "Verdi",
+            "title": "Il Trovatore  Anvil Chorus",
+            "time": "2:43"
+        },
+        {
+            "artist": "Grieg",
+            "title": "Peer Gynt  Anitra_ Dance",
+            "time": "3:32"
+        },
+        {
+            "artist": "Prokofiev",
+            "title": "Peter and Wolf  The Story Begins",
+            "time": "0:52"
+        },
+        {
+            "artist": "Mendelssohn",
+            "title": "Symphony movement I",
+            "time": "6:07"
+        },
+        {
+            "artist": "Strauss",
+            "title": "Tales from the Vienna Woods",
+            "time": "11:01"
+        },
+        {
+            "artist": "Rachmaninov",
+            "title": "Prelude in C sharp Minor",
+            "time": "4:54"
+        },
+        {
+            "artist": "Barber",
+            "title": "Adagio for Strings",
+            "time": "9:02"
+        },
+        {
+            "artist": "Rossini",
+            "title": "Barber of Seville  Al Factotum",
+            "time": "5:27"
+        },
+        {
+            "artist": "Brahms",
+            "title": "Hungarian dance 6",
+            "time": "2:52"
+        },
+        {
+            "artist": "Ivanovic",
+            "title": "Waves of Danube",
+            "time": "4:04"
+        },
+        {
+            "artist": "Waldteufel",
+            "title": "Skater_ Waltz",
+            "time": "7:37"
+        },
+        {
+            "artist": "Mozart",
+            "title": "Don Giovanni Overture",
+            "time": "7:11"
+        },
+        {
+            "artist": "Puccini",
+            "title": "Turandot  Nessun Dorma",
+            "time": "3:16"
+        },
+        {
+            "artist": "Bizet",
+            "title": "Carmen  Habanera",
+            "time": "2:11"
+        },
+        {
+            "artist": "Chopin",
+            "title": "Waltz op.64",
+            "time": "4:34"
+        },
+        {
+            "artist": "Milhaud",
+            "title": "Le Boeuf Sur le Toit",
+            "time": "18:34"
+        },
+        {
+            "artist": "Jenkins",
+            "title": "Palladio",
+            "time": "18:40"
+        },
+        {
+            "artist": "Beethoven",
+            "title": "3rd Symphony",
+            "time": "4:20"
+        },
+        {
+            "artist": "Handel",
+            "title": "Hallelujjah Chorus",
+            "time": "4:23"
+        },
+        {
+            "artist": "Saint Saens",
+            "title": "Carnival of the Animals  Finale",
+            "time": "2:11"
+        },
+        {
+            "artist": "Sibelius",
+            "title": "Finlandia",
+            "time": "8:12"
+        },
+        {
+            "artist": "Eugen Doga",
+            "title": "Gramofon",
+            "time": "2:28"
+        },
+        {
+            "artist": "Beethoven",
+            "title": "Egmont Overture",
+            "time": "11:18"
+        },
+        {
+            "artist": "Tchaikovsky",
+            "title": "Nutcracker  March",
+            "time": "2:36"
+        },
+        {
+            "artist": "Rimsky-Korsakoff",
+            "title": "Flight of the Bumblebee",
+            "time": "3:26"
+        },
+        {
+            "artist": "Monti",
+            "title": "Czardas",
+            "time": "5:12"
+        },
+        {
+            "artist": "Saint Saens",
+            "title": "Carnival of the Animals  Aquarium",
+            "time": "2:23"
+        },
+        {
+            "artist": "Leontovich",
+            "title": "Carol of the Bells",
+            "time": "1:26"
+        },
+        {
+            "artist": "Strauss",
+            "title": "Egyptian March",
+            "time": "4:06"
+        },
+        {
+            "artist": "Chopin",
+            "title": "Funeral March",
+            "time": "9:16"
+        },
+        {
+            "artist": "Haydn",
+            "title": "Trumpet Concerto",
+            "time": "14:24"
+        },
+        {
+            "artist": "Tchaikovsky",
+            "title": "The Nutcracker  Russian Dance",
+            "time": "1:18"
+        },
+        {
+            "artist": "Eugen Doga",
+            "title": "My Sweet and Tender Beast",
+            "time": "3:30"
+        },
+        {
+            "artist": "Rossini",
+            "title": "Barber of Seville  Overture",
+            "time": "7:48"
+        },
+        {
+            "artist": "Sousa",
+            "title": "Stars and Stripes Forever",
+            "time": "4:43"
+        },
+        {
+            "artist": "Strauss",
+            "title": "Russian March",
+            "time": "3:31"
+        },
+        {
+            "artist": "Mozart",
+            "title": "Eine Kleine Nachtmusik",
+            "time": "5:48"
+        },
+        {
+            "artist": "Bach",
+            "title": "Cello Suite",
+            "time": "19:28"
+        },
+        {
+            "artist": "Elgar",
+            "title": "Pomp and Circumstance March",
+            "time": "8:48"
+        },
+        {
+            "artist": "Tchaikovsky",
+            "title": "Romeo and Juliet Fantasy Overture",
+            "time": "19:31"
+        },
+        {
+            "artist": "Wagner",
+            "title": "Lohengrin  Prelude To Act 3",
+            "time": "3:30"
+        },
+        {
+            "artist": "Bach",
+            "title": "Mass in B minor",
+            "time": "3:58"
+        },
+        {
+            "artist": "Mozart",
+            "title": "Rondo alla Turca",
+            "time": "3:29"
+        },
+        {
+            "artist": "Mozart",
+            "title": "Marriage of Figaro  Overture",
+            "time": "4:30"
+        },
+        {
+            "artist": "Beethoven",
+            "title": "Ruins of Athens  Turkish March",
+            "time": "8:01"
+        },
+        {
+            "artist": "Mussorgsky",
+            "title": "Pictures At An Exhibition  Promenade",
+            "time": "1:41"
+        },
+        {
+            "artist": "Wagner",
+            "title": "Tristan and Isolde",
+            "time": "10:59"
+        },
+        {
+            "artist": "Beethoven",
+            "title": "String Quartet in C sharp minor",
+            "time": "15:05"
+        },
+        {
+            "artist": "Bach",
+            "title": "St. Matthew Passion",
+            "time": "3:53"
+        },
+        {
+            "artist": "Bach",
+            "title": "Air on the G String",
+            "time": "5:24"
+        },
+        {
+            "artist": "Verdi",
+            "title": "Rigoletto  La Donna _ Mobile",
+            "time": "2:51"
+        },
+        {
+            "artist": "Beethoven",
+            "title": "Missa Solemnis",
+            "time": "8:05"
+        },
+        {
+            "artist": "Handel",
+            "title": "Alla Hornpipe",
+            "time": "3:09"
+        },
+        {
+            "artist": "Stravinsky",
+            "title": "The Rite of Spring",
+            "time": "2:53"
+        },
+        {
+            "artist": "Strauss",
+            "title": "Persian March",
+            "time": "2:51"
+        },
+        {
+            "artist": "Vivaldi",
+            "title": "Four Seasons  Summer",
+            "time": "11:10"
+        },
+        {
+            "artist": "Tchaikovsky",
+            "title": "Sleeping Beauty  Garland Waltz",
+            "time": "4:43"
+        },
+        {
+            "artist": "Sibelius",
+            "title": "Karelia Suite  Alla Marcia",
+            "time": "4:30"
+        },
+        {
+            "artist": "Debussy",
+            "title": "Suite Bergamasque: Clair De Lune",
+            "time": "5:34"
+        },
+        {
+            "artist": "Saint-Saens",
+            "title": "Danse Macabre",
+            "time": "7:10"
+        },
+        {
+            "artist": "Ricketts",
+            "title": "Colonel Bogey March",
+            "time": "3:36"
+        },
+        {
+            "artist": "Schubert",
+            "title": "Ave Maria",
+            "time": "6:16"
+        },
+        {
+            "artist": "Bach",
+            "title": "Badinerie",
+            "time": "1:26"
+        },
+        {
+            "artist": "Strauss",
+            "title": "Tritsch Tratsch Polka",
+            "time": "3:31"
+        },
+        {
+            "artist": "Mendellsohn",
+            "title": "Midsummer Night_ Dream  Wedding March",
+            "time": "5:39"
+        },
+        {
+            "artist": "Tchaikovsky",
+            "title": "Symphony 4",
+            "time": "2:30"
+        },
+        {
+            "artist": "Smetana",
+            "title": "Bartered Bride  Dance Of The Comedians",
+            "time": "5:38"
+        },
+        {
+            "artist": "Handel",
+            "title": "Sarabande",
+            "time": "4:04"
+        },
+        {
+            "artist": "Tchaikovsky",
+            "title": "Nutcracker  Dance Of The Mirlitons",
+            "time": "3:19"
+        },
+        {
+            "artist": "Copland",
+            "title": "Fanfare for the Common Man",
+            "time": "2:15"
+        },
+        {
+            "artist": "Sousa",
+            "title": "Liberty Bell",
+            "time": "4:33"
+        },
+        {
+            "artist": "Delibes",
+            "title": "Sylvia  Pizzicato",
+            "time": "2:30"
+        },
+        {
+            "artist": "Tchaikovsky",
+            "title": "Nutcracker  Dance Of The Sugar-Plum Fairy",
+            "time": "2:21"
+        },
+        {
+            "artist": "Tchaikovsky",
+            "title": "Swan Lake  Dance Of The Little Swans",
+            "time": "2:14"
+        },
+        {
+            "artist": "Offenbach",
+            "title": "Tales Of Hoffmann  Barcarolle",
+            "time": "3:38"
+        },
+        {
+            "artist": "Bach",
+            "title": "Bourrée In E Minor",
+            "time": "1:32"
+        },
+        {
+            "artist": "Mendellsohn",
+            "title": "Spring Song",
+            "time": "2:44"
+        },
+        {
+            "artist": "Delibes",
+            "title": "Lakmé  Flower Duet",
+            "time": "4:38"
+        },
+        {
+            "artist": "Dvorak",
+            "title": "Humoresque No. 7",
+            "time": "3:46"
+        },
+        {
+            "artist": "Mozart",
+            "title": "Marriage Of Figaro  Wedding March",
+            "time": "2:09"
+        },
+        {
+            "artist": "Beethoven",
+            "title": "Appasionata Sonate",
+            "time": "8:06"
+        },
+        {
+            "artist": "Ponchielli",
+            "title": "La Gioconda  Dance of the Hours",
+            "time": "9:33"
+        },
+        {
+            "artist": "Smetana",
+            "title": "Ma Vlast  Vysehrad",
+            "time": "15:16"
+        },
+        {
+            "artist": "Handel",
+            "title": "Solomon  Arrival Of The Queen Of Sheba",
+            "time": "3:09"
+        },
+        {
+            "artist": "Adams",
+            "title": "Nearer My God to Thee",
+            "time": "3:47"
+        },
+        {
+            "artist": "Bach",
+            "title": "Well Tempered Clavier",
+            "time": "2:04"
+        },
+        {
+            "artist": "Mendellsohn",
+            "title": "Hebrides Overture",
+            "time": "9:58"
+        },
+        {
+            "artist": "Strauss",
+            "title": "Emperor Waltz",
+            "time": "11:56"
+        },
+        {
+            "artist": "Dvorak",
+            "title": "Carnival Overture",
+            "time": "9:52"
+        },
+        {
+            "artist": "Sibelius",
+            "title": "Karelia Suite: Intermezzo",
+            "time": "3:48"
+        },
+        {
+            "artist": "Schubert",
+            "title": "Marche Militaire No. 1 (Military March)",
+            "time": "5:31"
+        },
+        {
+            "artist": "Chopin",
+            "title": "Nocturne Op. 9 No. 2",
+            "time": "4:24"
+        },
+        {
+            "artist": "Handel",
+            "title": "Ombra mai Fu",
+            "time": "3:12"
+        },
+        {
+            "artist": "Kabalevsky",
+            "title": "Comedians Galop",
+            "time": "1:34"
+        },
+        {
+            "artist": "Borodin",
+            "title": "Prince Igor  Polovtsian Dance No. 17  Dance Of The Men",
+            "time": "11:23"
+        },
+        {
+            "artist": "Chopin",
+            "title": "Minute Waltz",
+            "time": "1:54"
+        },
+        {
+            "artist": "Beethoven",
+            "title": "Symphony 6",
+            "time": "1:42"
+        },
+        {
+            "artist": "Strauss",
+            "title": "Die Fledermaus Waltz",
+            "time": "9:20"
+        },
+        {
+            "artist": "Tchaikovsky",
+            "title": "Nutcracker  Pas De Deux",
+            "time": "5:04"
+        },
+        {
+            "artist": "Tchaikovsky",
+            "title": "Nutcracker  Overture",
+            "time": "3:06"
+        },
+        {
+            "artist": "Handel",
+            "title": "Zadok The Priest",
+            "time": "5:28"
+        },
+        {
+            "artist": "Ketelbey",
+            "title": "In a Persian Market",
+            "time": "6:47"
+        },
+        {
+            "artist": "Beethoven",
+            "title": "Fur Elise",
+            "time": "2:56"
+        },
+        {
+            "artist": "Chopin",
+            "title": "Etude Op. 10 No. 3",
+            "time": "3:44"
+        },
+        {
+            "artist": "Respighi",
+            "title": "Pines Of Rome  Pines Of The Appian Way",
+            "time": "5:18"
+        },
+        {
+            "artist": "Purcell",
+            "title": "Funeral Of Queen Mary",
+            "time": "3:46"
+        },
+        {
+            "artist": "Albinoni",
+            "title": "Adagio In G Minor",
+            "time": "8:57"
+        },
+        {
+            "artist": "Mascagni",
+            "title": "Cavalleria Rusticana  Intermezzo",
+            "time": "3:19"
+        },
+        {
+            "artist": "Chopin",
+            "title": "Heroic Polonaise",
+            "time": "7:15"
+        },
+        {
+            "artist": "Stravinsky",
+            "title": "Firebird Suite: Finale",
+            "time": "3:01"
+        },
+        {
+            "artist": "Saint Saens",
+            "title": "Symphony No. 3 (Organ)  Movement II",
+            "time": "18:20"
+        },
+        {
+            "artist": "Vaughan Williams",
+            "title": "Fantasia On Greensleeves",
+            "time": "9:45"
+        },
+        {
+            "artist": "Handel",
+            "title": "La Réjouissance",
+            "time": "3:10"
+        },
+        {
+            "artist": "Sousa",
+            "title": "Semper Fidelis",
+            "time": "3:44"
+        },
+        {
+            "artist": "Peter",
+            "title": "Circus Renz",
+            "time": "3:35"
+        },
+        {
+            "artist": "Elgar",
+            "title": "Enigma Variation No. 9",
+            "time": "3:53"
+        },
+        {
+            "artist": "Mouret",
+            "title": "Rondeau",
+            "time": "2:22"
+        },
+        {
+            "artist": "Telemann",
+            "title": "Tafelmusik  Quartet In G Major: I",
+            "time": "11:28"
+        },
+        {
+            "artist": "Bach",
+            "title": "Brandenburg Concerto 5",
+            "time": "9:45"
+        },
+        {
+            "artist": "Mozart",
+            "title": "Marriage Of Figaro  Sull_ria",
+            "time": "2:57"
+        },
+        {
+            "artist": "Paganini",
+            "title": "Caprice No. 24",
+            "time": "5:10"
+        },
+        {
+            "artist": "Gounod",
+            "title": "Funeral March of Marionette",
+            "time": "4:23"
+        },
+        {
+            "artist": "Puccini",
+            "title": "Madama Butterfly",
+            "time": "3:24"
+        },
+        {
+            "artist": "Mozart",
+            "title": "Clarinet Concerto II",
+            "time": "8:03"
+        },
+        {
+            "artist": "Strauss",
+            "title": "Till Eulenspiegel",
+            "time": "18:33"
+        },
+        {
+            "artist": "Mozart",
+            "title": "Queen of the Night Aria",
+            "time": "3:10"
+        },
+        {
+            "artist": "Chopin",
+            "title": "Waltz op.6",
+            "time": "1:53"
+        },
+        {
+            "artist": "Beethoven",
+            "title": "Symphony 5, movement I",
+            "time": "7:03"
+        },
+        {
+            "artist": "Beethoven",
+            "title": "Symphony 9, movement IV(Ode to Joy)",
+            "time": "4:36"
+        },
+        {
+            "artist": "Beethoven",
+            "title": "Symphony 5, movement III",
+            "time": "4:57"
+        },
+        {
+            "artist": "Dvorak",
+            "title": "Symphony 9, movement IV",
+            "time": "13:19"
+        },
+        {
+            "artist": "Holst",
+            "title": "The Planets  Mars, Bringer of War",
+            "time": "6:58"
+        },
+        {
+            "artist": "Beethoven",
+            "title": "Symphony 9, movement II",
+            "time": "11:34"
+        },
+        {
+            "artist": "Gustav Holst",
+            "title": "The Planets  Jupiter, Bringer of Jolity",
+            "time": "7:36"
+        },
+        {
+            "artist": "Bizet",
+            "title": "Carmen, Gypsy Dance",
+            "time": "5:15"
+        },
+        {
+            "artist": "Rachmaninov",
+            "title": "Rhapsody On A Theme Of Paganini, 18th Variation",
+            "time": "2:57"
+        },
+        {
+            "artist": "Bach",
+            "title": "Cantata 1 Jesu, Joy Of Man_ Desiring",
+            "time": "3:44"
+        },
+        {
+            "artist": "Denza",
+            "title": "Funiculi, Funicula",
+            "time": "2:27"
+        }
+    ],
+    "oversea": [
+        {
+            "artist": "The Weeknd",
+            "title": "Blinding Lights",
+            "time": "3:21"
+        },
+        {
+            "artist": "Lewis Capaldi",
+            "title": "Someone You Loved",
+            "time": "3:02"
+        },
+        {
+            "artist": "Ed Sheeran",
+            "title": "Shape Of You",
+            "time": "3:53"
+        },
+        {
+            "artist": "Tones & I",
+            "title": "Dance Monkey",
+            "time": "3:29"
+        },
+        {
+            "artist": "Billie Eilish",
+            "title": "Bad Guy",
+            "time": "3:14"
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Circles",
+            "time": "3:35"
+        },
+        {
+            "artist": "Ed Sheeran",
+            "title": "Perfect",
+            "time": "4:23"
+        },
+        {
+            "artist": "Nickelback",
+            "title": "How You Remind Me",
+            "time": "3:44"
+        },
+        {
+            "artist": "Luis Fonsi & Daddy Yankee",
+            "title": "Despacito",
+            "time": "3:50"
+        },
+        {
+            "artist": "Lil Nas X & Billy Ray Cyrus",
+            "title": "Old Town Road",
+            "time": "2:37"
+        },
+        {
+            "artist": "Dua Lipa",
+            "title": "Don't Start Now",
+            "time": "3:03"
+        },
+        {
+            "artist": "Mariah Carey",
+            "title": "All I Want For Christmas Is You",
+            "time": "4:01"
+        },
+        {
+            "artist": "Mary J Blige",
+            "title": "Family Affair",
+            "time": "4:25"
+        },
+        {
+            "artist": "Lifehouse",
+            "title": "Hanging By A Moment",
+            "time": "3:36"
+        },
+        {
+            "artist": "Timbaland & OneRepublic",
+            "title": "Apologize",
+            "time": "3:10"
+        },
+        {
+            "artist": "Shawn Mendes & Camila Cabello",
+            "title": "Senorita",
+            "time": "3:11"
+        },
+        {
+            "artist": "The Black Eyed Peas",
+            "title": "I Gotta Feeling",
+            "time": "4:49"
+        },
+        {
+            "artist": "Mariah Carey",
+            "title": "We Belong Together",
+            "time": "3:21"
+        },
+        {
+            "artist": "Alicia Keys",
+            "title": "Fallin'",
+            "time": "3:30"
+        },
+        {
+            "artist": "Three Doors Down",
+            "title": "Kryptonite",
+            "time": "3:54"
+        },
+        {
+            "artist": "Mark Ronson & Bruno Mars",
+            "title": "Uptown Funk",
+            "time": "4:30"
+        },
+        {
+            "artist": "Snow Patrol",
+            "title": "Chasing Cars",
+            "time": "4:28"
+        },
+        {
+            "artist": "Eminem",
+            "title": "Lose Yourself",
+            "time": "5:21"
+        },
+        {
+            "artist": "Faith Hill",
+            "title": "Breathe",
+            "time": "4:05"
+        },
+        {
+            "artist": "Pharrell Williams",
+            "title": "Happy",
+            "time": "3:59"
+        },
+        {
+            "artist": "Nelly & Kelly Rowland",
+            "title": "Dilemma",
+            "time": "4:50"
+        },
+        {
+            "artist": "The Pussycat Dolls",
+            "title": "Don't Cha",
+            "time": "4:33"
+        },
+        {
+            "artist": "OutKast",
+            "title": "Hey Ya!",
+            "time": "3:50"
+        },
+        {
+            "artist": "Train",
+            "title": "Drops Of Jupiter (Tell Me)",
+            "time": "4:17"
+        },
+        {
+            "artist": "Lady Gaga & Bradley Cooper",
+            "title": "Shallow",
+            "time": "3:36"
+        },
+        {
+            "artist": "Maroon 5",
+            "title": "Memories",
+            "time": "3:12"
+        },
+        {
+            "artist": "Santana & The Product G",
+            "title": "Maria Maria",
+            "time": "4:21"
+        },
+        {
+            "artist": "Post Malone & Swae Lee",
+            "title": "Sunflower",
+            "time": "2:42"
+        },
+        {
+            "artist": "50 Cent",
+            "title": "In Da Club",
+            "time": "3:16"
+        },
+        {
+            "artist": "Camila Cabello & Young Thug",
+            "title": "Havana",
+            "time": "3:39"
+        },
+        {
+            "artist": "Mario",
+            "title": "Let Me Love You",
+            "time": "4:07"
+        },
+        {
+            "artist": "Maroon 5 & Cardi B",
+            "title": "Girls Like You",
+            "time": "3:55"
+        },
+        {
+            "artist": "Roddy Ricch",
+            "title": "The Box",
+            "time": "3:17"
+        },
+        {
+            "artist": "Faith Hill",
+            "title": "The Way You Love Me",
+            "time": "3:29"
+        },
+        {
+            "artist": "Adele",
+            "title": "Rolling In The Deep",
+            "time": "3:51"
+        },
+        {
+            "artist": "Rihanna & Jay-Z",
+            "title": "Umbrella",
+            "time": "4:35"
+        },
+        {
+            "artist": "The Calling",
+            "title": "Wherever You Will Go",
+            "time": "3:24"
+        },
+        {
+            "artist": "Kanye West & Jamie Foxx",
+            "title": "Gold Digger",
+            "time": "3:29"
+        },
+        {
+            "artist": "Kelly Clarkson",
+            "title": "Since U Been Gone",
+            "time": "3:18"
+        },
+        {
+            "artist": "Creed",
+            "title": "With Arms Wide Open",
+            "time": "4:35"
+        },
+        {
+            "artist": "Jennifer Lopez & Ja Rule",
+            "title": "I'm Real",
+            "time": " 4:06"
+        },
+        {
+            "artist": "Maroon 5",
+            "title": "This Love",
+            "time": "3:27"
+        },
+        {
+            "artist": "Lady GaGa",
+            "title": "Poker Face",
+            "time": "3:58"
+        },
+        {
+            "artist": "Destiny's Child",
+            "title": "Independent Woman",
+            "time": "3:45"
+        },
+        {
+            "artist": "Shaggy & Ricardo 'RikRok' Ducent",
+            "title": "It Wasn't Me",
+            "time": "3:35"
+        },
+        {
+            "artist": "LMFAO",
+            "title": "Party Rock Anthem",
+            "time": "4:23"
+        },
+        {
+            "artist": "Sia",
+            "title": "Cheap Thrills",
+            "time": "3:31"
+        },
+        {
+            "artist": "James Blunt",
+            "title": "You're Beautiful",
+            "time": "3:33"
+        },
+        {
+            "artist": "Enrique Iglesias",
+            "title": "Hero",
+            "time": "4:24"
+        },
+        {
+            "artist": "Vanessa Carlton",
+            "title": "A Thousand Miles",
+            "time": "3:57"
+        },
+        {
+            "artist": "Joe Thomas",
+            "title": "I Wanna Know",
+            "time": "4:56"
+        },
+        {
+            "artist": "Fergie",
+            "title": "Big Girls Don't Cry (Personal)",
+            "time": "4:28"
+        },
+        {
+            "artist": "R Kelly",
+            "title": "Ignition",
+            "time": "3:10"
+        },
+        {
+            "artist": "The Chainsmokers & Halsey",
+            "title": "Closer",
+            "time": "4:05"
+        },
+        {
+            "artist": "Ed Sheeran & Justin Bieber",
+            "title": "I Don't Care",
+            "time": "3:40"
+        },
+        {
+            "artist": "Justin Timberlake",
+            "title": "Can't Stop The Feeling",
+            "time": "3:56"
+        },
+        {
+            "artist": "The Killers",
+            "title": "Mr Brightside",
+            "time": "3:44"
+        },
+        {
+            "artist": "Aaliyah",
+            "title": "Try Again",
+            "time": "4:44"
+        },
+        {
+            "artist": "Timbaland & Keri Hilson",
+            "title": "The Way I Are",
+            "time": "2:53"
+        },
+        {
+            "artist": "Gotye & Kimbra",
+            "title": "Somebody That I Used To Know",
+            "time": "4:04"
+        },
+        {
+            "artist": "Leona Lewis",
+            "title": "Bleeding Love",
+            "time": "4:22"
+        },
+        {
+            "artist": "Ciara & Petey Pablo",
+            "title": "Goodies",
+            "time": "3:43"
+        },
+        {
+            "artist": "Evanescence & Paul McCoy",
+            "title": "Bring Me To Life",
+            "time": "3:55"
+        },
+        {
+            "artist": "Toni Braxton",
+            "title": "He Wasn't Man Enough",
+            "time": "4:22"
+        },
+        {
+            "artist": "Ed Sheeran",
+            "title": "Thinking Out Loud",
+            "time": "4:41"
+        },
+        {
+            "artist": "Post Malone & 21 Savage",
+            "title": "Rockstar",
+            "time": "3:38"
+        },
+        {
+            "artist": "Three Doors Down",
+            "title": "Here Without You",
+            "time": "3:58"
+        },
+        {
+            "artist": "Marshmello & Bastille",
+            "title": "Happier",
+            "time": "3:34"
+        },
+        {
+            "artist": "Linkin Park",
+            "title": "In The End",
+            "time": "3:36"
+        },
+        {
+            "artist": "Sean Paul",
+            "title": "Get Busy",
+            "time": "3:31"
+        },
+        {
+            "artist": "Usher",
+            "title": "U Got It Bad",
+            "time": "4:07"
+        },
+        {
+            "artist": "Alicia Keys",
+            "title": "No One",
+            "time": "4:13"
+        },
+        {
+            "artist": "Halsey",
+            "title": "Without Me",
+            "time": "3:21"
+        },
+        {
+            "artist": "Coldplay",
+            "title": "Viva la vida",
+            "time": "4:01"
+        },
+        {
+            "artist": "Rob Thomas & Santana",
+            "title": "Smooth",
+            "time": "4:55"
+        },
+        {
+            "artist": "Shakira & Wyclef Jean",
+            "title": "Hips Don't Lie",
+            "time": "3:38"
+        },
+        {
+            "artist": "John Legend",
+            "title": "All Of Me",
+            "time": "4:29"
+        },
+        {
+            "artist": "The Fray",
+            "title": "How To Save A Life",
+            "time": "4:22"
+        },
+        {
+            "artist": "Madonna",
+            "title": "Music",
+            "time": "3:44"
+        },
+        {
+            "artist": "OutKast",
+            "title": "The Way You Move",
+            "time": "3:54"
+        },
+        {
+            "artist": "Avril Lavigne",
+            "title": "Complicated",
+            "time": "4:04"
+        },
+        {
+            "artist": "Oasis",
+            "title": "Champagne Supernova",
+            "time": "7:31"
+        },
+        {
+            "artist": "Oasis",
+            "title": "Don't Look Back In Anger",
+            "time": "4:48"
+        },
+        {
+            "artist": "Oasis",
+            "title": "Live Forever",
+            "time": "4:36"
+        },
+        {
+            "artist": "Radiohead",
+            "title": "Creep",
+            "time": "3:59"
+        },
+        {
+            "artist": "Keane",
+            "title": "Somewhere Only We Know",
+            "time": "3:57"
+        },
+        {
+            "artist": "Keane",
+            "title": "Everybody's Changing",
+            "time": "3:35"
+        },
+        {
+            "artist": "Keane",
+            "title": "Can't Stop Now",
+            "time": "3:38"
+        },
+        {
+            "artist": "Muse",
+            "title": "Starlight",
+            "time": "4:00"
+        },
+        {
+            "artist": "Muse",
+            "title": "Super Massive Black Hole",
+            "time": "3:29"
+        },
+        {
+            "artist": "Muse",
+            "title": "Plug In Baby",
+            "time": "3:38"
+        },
+        {
+            "artist": "Coldplay",
+            "title": "Yellow",
+            "time": "4:29"
+        },
+        {
+            "artist": "Coldplay",
+            "title": "In My Place",
+            "time": "3:48"
+        },
+        {
+            "artist": "Rihanna",
+            "title": "Love On The Brain",
+            "time": "3:40"
+        },
+        {
+            "artist": "Romeo Santos",
+            "title": "Propuesta Indecente",
+            "time": "3:55"
+        },
+        {
+            "artist": "Son by Four",
+            "title": "A Puro Dolor",
+            "time": "3:31"
+        },
+        {
+            "artist": "Alejandro Fernández",
+            "title": "Si Tú Supieras",
+            "time": "5:28"
+        },
+        {
+            "artist": "Shakira featuring Alejandro Sanz",
+            "title": "La Tortura",
+            "time": "3:36"
+        },
+        {
+            "artist": "Flex",
+            "title": "Te Quiero",
+            "time": "3:19"
+        },
+        {
+            "artist": "Luis Fonsi",
+            "title": "No Me Doy Por Vencido",
+            "time": "3:59"
+        },
+        {
+            "artist": "Nicky Jam & Enrique Iglesias",
+            "title": "El Perdón",
+            "time": "3:26"
+        },
+        {
+            "artist": "Enrique Iglesias featuring Descemer Bueno & Gente de Zona",
+            "title": "Bailando",
+            "time": "4:03"
+        },
+        {
+            "artist": "Juanes",
+            "title": "Me Enamora",
+            "time": "3:12"
+        },
+        {
+            "artist": "Juan Gabriel",
+            "title": "Abrázame Muy Fuerte",
+            "time": "4:02"
+        },
+        {
+            "artist": "Black Eyed Peas X J Balvin",
+            "title": "Ritmo (Bad Boys for Life)",
+            "time": "3:41"
+        },
+        {
+            "artist": "Nicky Jam",
+            "title": "Hasta El Amanecer",
+            "time": "3:17"
+        },
+        {
+            "artist": "Ana Gabriel",
+            "title": "Ay Amor",
+            "time": "3:22"
+        },
+        {
+            "artist": "Shakira",
+            "title": "Suerte (Whenever",
+            "time": " Wherever)"
+        },
+        {
+            "artist": "Bad Bunny & Jhay Cortéz",
+            "title": "Dákiti",
+            "time": "3:27"
+        },
+        {
+            "artist": "Bad Bunny featuring Drake",
+            "title": "MIA",
+            "time": "3:30"
+        },
+        {
+            "artist": "Selena",
+            "title": "No Me Queda Más",
+            "time": "3:21"
+        },
+        {
+            "artist": "Daniela Romo",
+            "title": "De Mi Enamórate",
+            "time": "3:30"
+        },
+        {
+            "artist": "J Balvin",
+            "title": "Ginza",
+            "time": "2:51"
+        },
+        {
+            "artist": "Judy Garland",
+            "title": "Over the Rainbow",
+            "time": "2:49"
+        },
+        {
+            "artist": "Bing Crosby",
+            "title": "White Christmas",
+            "time": "3:21"
+        },
+        {
+            "artist": "Woody Guthrie",
+            "title": "This Land is Your Land",
+            "time": "2:18"
+        },
+        {
+            "artist": "Aretha Franklin",
+            "title": "Respect",
+            "time": "2:27"
+        },
+        {
+            "artist": "Don McLean",
+            "title": "American Pie",
+            "time": "8:35"
+        },
+        {
+            "artist": "The Andrews Sisters",
+            "title": "Boogie Woogie Bugle Boy",
+            "time": "2:50"
+        },
+        {
+            "artist": "Eagles",
+            "title": "Hotel California",
+            "time": "6:31"
+        },
+        {
+            "artist": "Hozier",
+            "title": "Take Me To Church",
+            "time": "4:01"
+        },
+        {
+            "artist": "The Righteous Brothers",
+            "title": "You've Lost That Lovin Feelin",
+            "time": "3:40"
+        },
+        {
+            "artist": "Scott Joplin",
+            "title": "The Entertainer",
+            "time": "3:39"
+        },
+        {
+            "artist": "Glenn Miller Orchestra",
+            "title": "In The Mood",
+            "time": "3:31"
+        },
+        {
+            "artist": "Bill Haley & The Comets",
+            "title": "Rock Around the Clock",
+            "time": "2:10"
+        },
+        {
+            "artist": "Louis Armstrong",
+            "title": "When the Saints Go Marching In",
+            "time": "3:13"
+        },
+        {
+            "artist": "Jimmie Davis",
+            "title": "You Are My Sunshine",
+            "time": "3:40"
+        },
+        {
+            "artist": "Bobby Darin",
+            "title": "Mack the Knife",
+            "time": "3:10"
+        },
+        {
+            "artist": "The Rolling Stones",
+            "title": "Satisfaction",
+            "time": "3:42"
+        },
+        {
+            "artist": "Duke Ellington Orchestra",
+            "title": "Take the 'A' Train",
+            "time": "3:16"
+        },
+        {
+            "artist": "Fats Domino",
+            "title": "Blueberry Hill",
+            "time": "2:29"
+        },
+        {
+            "artist": "Kate Smith",
+            "title": "God Bless America",
+            "time": "1:55"
+        },
+        {
+            "artist": "Jonas Blue (feat. Jack & Jack)",
+            "title": "Rise",
+            "time": "3:14"
+        },
+        {
+            "artist": "Stromae",
+            "title": "Papaoutai",
+            "time": "3:52"
+        },
+        {
+            "artist": "Julien Doré",
+            "title": "Le Lac",
+            "time": "3:57"
+        },
+        {
+            "artist": "Florent Pagny",
+            "title": "Savoir Aimer",
+            "time": "4:48"
+        },
+        {
+            "artist": "Grand Corps Malade",
+            "title": "Les Voyages en Train",
+            "time": "2:51"
+        },
+        {
+            "artist": "Francis Cabrel",
+            "title": "Je l’Aime à Mourir",
+            "time": "2:43"
+        },
+        {
+            "artist": "Jean-Jacques Goldman",
+            "title": "Les choses",
+            "time": "5:25"
+        },
+        {
+            "artist": "Garou",
+            "title": "Je n’attendais que vous",
+            "time": "5:18"
+        },
+        {
+            "artist": "Christophe Maé",
+            "title": "La Parisienne",
+            "time": "3:26"
+        },
+        {
+            "artist": "Fréro Delavega",
+            "title": "Mon Petit Pays",
+            "time": "8:53"
+        },
+        {
+            "artist": "Mika",
+            "title": "Elle Me Dit",
+            "time": "3:37"
+        },
+        {
+            "artist": "Natasha St-Pier",
+            "title": "Tu Trouveras",
+            "time": "3:32"
+        },
+        {
+            "artist": "Amel Bent",
+            "title": "Le Droit à l’Erreur",
+            "time": "4:01"
+        },
+        {
+            "artist": "Hélène Ségara",
+            "title": "Rien n’est comme avant",
+            "time": "3:54"
+        },
+        {
+            "artist": "Louane",
+            "title": "Maman",
+            "time": "2:41"
+        },
+        {
+            "artist": "Coeur de Pirate",
+            "title": "Mistral Gagnant",
+            "time": "3:02"
+        },
+        {
+            "artist": "TAL",
+            "title": "Je prends le large",
+            "time": "2:58"
+        },
+        {
+            "artist": "Zaz",
+            "title": "Sous le ciel de Paris",
+            "time": "3:17"
+        },
+        {
+            "artist": "Shy’m",
+            "title": "Tourne",
+            "time": "3:22"
+        },
+        {
+            "artist": "Céline Dion",
+            "title": "On s’est aimé à cause",
+            "time": "4:06"
+        },
+        {
+            "artist": "Lara Fabian",
+            "title": "Je suis malade",
+            "time": "4:25"
+        },
+        {
+            "artist": "MotorBass",
+            "title": "Les Ondes",
+            "time": "7:51"
+        },
+        {
+            "artist": "Sebastien Leger",
+            "title": "We Are",
+            "time": "6:50"
+        },
+        {
+            "artist": "Grant Phabao",
+            "title": "Tub",
+            "time": "5:36"
+        },
+        {
+            "artist": "Thomas Bangalter",
+            "title": "Club Soda",
+            "time": "4:02"
+        },
+        {
+            "artist": "Daft Punk",
+            "title": "Burnin",
+            "time": "6:55"
+        },
+        {
+            "artist": "Cassius",
+            "title": "La Mouche",
+            "time": "4:42"
+        },
+        {
+            "artist": "Jess & Crabb",
+            "title": "Big Booya",
+            "time": "6:06"
+        },
+        {
+            "artist": "Le Knight Club",
+            "title": "Boogie Shell",
+            "time": "5:36"
+        },
+        {
+            "artist": "French79",
+            "title": "Hometown",
+            "time": "3:22"
+        },
+        {
+            "artist": "Phoenix",
+            "title": "Heatwave",
+            "time": "4:20"
+        },
+        {
+            "artist": "Billie Holiday",
+            "title": "God Bless The Child",
+            "time": "4:00"
+        },
+        {
+            "artist": "Ella Fitzgerald",
+            "title": "How High The Moon",
+            "time": "6:57"
+        },
+        {
+            "artist": "Miles Davis",
+            "title": "Stella By Starlight",
+            "time": "4:46"
+        },
+        {
+            "artist": "Sonny Rollins",
+            "title": "St.Thomas",
+            "time": "6:49"
+        },
+        {
+            "artist": "Fats Waller",
+            "title": "Ain't Misbehavin",
+            "time": "3:59"
+        },
+        {
+            "artist": "Duke Ellington",
+            "title": "Take The 'A' Train",
+            "time": "3:14"
+        },
+        {
+            "artist": "Miles Davis",
+            "title": "So What",
+            "time": "9:24"
+        },
+        {
+            "artist": "Dizzy Gillespie",
+            "title": "On The Sunny Side of the Street",
+            "time": "5:41"
+        },
+        {
+            "artist": "Joe Henderson",
+            "title": "Night and Day",
+            "time": "7:26"
+        },
+        {
+            "artist": "Bill Evans",
+            "title": "All The Things You Are",
+            "time": "9:02"
+        },
+        {
+            "artist": "Miles Davis",
+            "title": "Straight No Chaser",
+            "time": "10:41"
+        },
+        {
+            "artist": "Duke Ellington",
+            "title": "It Don't Mean a Thing (If It Ain't Got That Swing)",
+            "time": "3:59"
+        },
+        {
+            "artist": "Frank Sinatra",
+            "title": "Fly Me to the Moon",
+            "time": "2:28"
+        },
+        {
+            "artist": "Cannonball Adderley",
+            "title": "Autumn Leaves",
+            "time": "11:00"
+        },
+        {
+            "artist": "Billie Holiday",
+            "title": "Georgia On My Mind",
+            "time": "3:09"
+        },
+        {
+            "artist": "Thelonious Monk",
+            "title": "Round Midnight",
+            "time": "3:49"
+        },
+        {
+            "artist": "Stan Getz",
+            "title": "The Girl From Ipanema",
+            "time": "5:25"
+        },
+        {
+            "artist": "Coleman Hawkins",
+            "title": "Body and Soul",
+            "time": "3:06"
+        },
+        {
+            "artist": "Sarah Vaughan",
+            "title": "I Got Rhythm",
+            "time": "1:54"
+        },
+        {
+            "artist": "Ella Fitzgerald & Louis Armstrong",
+            "title": "Summertime",
+            "time": "5:07"
+        },
+        {
+            "artist": "Kingo Hamada",
+            "title": "Midnight Cruisin'",
+            "time": "4:43"
+        },
+        {
+            "artist": "Haruko Kuwana",
+            "title": "Akogareno Sundown",
+            "time": "3:46"
+        },
+        {
+            "artist": "Tatsuro Yamashita",
+            "title": "Space Crush",
+            "time": "5:25"
+        },
+        {
+            "artist": "Harumi Ohzora",
+            "title": "Lagoon Hotel",
+            "time": "5:44"
+        },
+        {
+            "artist": "NVDES feat REMMI",
+            "title": "D.Y.T (Do Your Thing)",
+            "time": "2:54"
+        },
+        {
+            "artist": "Citizens!",
+            "title": "True Romance",
+            "time": "4:04"
+        },
+        {
+            "artist": "ODESZA",
+            "title": "Loyal",
+            "time": "3:28"
+        },
+        {
+            "artist": "Silk Sonic",
+            "title": "Smokin Out The Window",
+            "time": "3:21"
+        },
+        {
+            "artist": "Silk Sonic",
+            "title": "Leave the Door Open",
+            "time": "4:09"
+        },
+        {
+            "artist": "James Arthur",
+            "title": "Say You Won't Let Go",
+            "time": "3:31"
+        },
+        {
+            "artist": "Martin Garrix feat. Tove Lo",
+            "title": "Pressure",
+            "time": "2:25"
+        },
+        {
+            "artist": "Paul Anka",
+            "title": "Put Your Head On My Shoulder",
+            "time": "2:43"
+        },
+        {
+            "artist": "Alexander Jean",
+            "title": "Whiskey and Morphine",
+            "time": "5:05"
+        },
+        {
+            "artist": "Billie Eilish",
+            "title": "come out and play",
+            "time": "3:30"
+        },
+        {
+            "artist": "Billie Eilish",
+            "title": "idontwannabeyouanymore",
+            "time": "3:23"
+        },
+        {
+            "artist": "Billie Eilish",
+            "title": "Happier Than Ever",
+            "time": "4:58"
+        },
+        {
+            "artist": "Billie Eilish",
+            "title": "everything i wanted",
+            "time": "4:05"
+        },
+        {
+            "artist": "Adele",
+            "title": "Someone Like You",
+            "time": "4:49"
+        },
+        {
+            "artist": "Adele",
+            "title": "When We Were Young",
+            "time": "4:50"
+        },
+        {
+            "artist": "Adele",
+            "title": "Hello",
+            "time": "4:55"
+        },
+        {
+            "artist": "Adele",
+            "title": "Make You Feel My Love",
+            "time": "3:32"
+        },
+        {
+            "artist": "Adele",
+            "title": "Skyfall",
+            "time": "4:46"
+        },
+        {
+            "artist": "Coldplay",
+            "title": "Fix You",
+            "time": "4:55"
+        },
+        {
+            "artist": "Rihanna",
+            "title": "Love The Way You Lie (Pt.2) (Feat. Eminem)",
+            "time": "4:56"
+        },
+        {
+            "artist": "Rihanna",
+            "title": "Work (Feat.Drake)",
+            "time": "3:39"
+        },
+        {
+            "artist": "Rihanna",
+            "title": "Diamonds",
+            "time": "3:45"
+        },
+        {
+            "artist": "Sia",
+            "title": "Snowman",
+            "time": "2:45"
+        },
+        {
+            "artist": "Sia",
+            "title": "Unstoppable",
+            "time": "3:37"
+        },
+        {
+            "artist": "Sia",
+            "title": "Chandelier",
+            "time": "3:36"
+        },
+        {
+            "artist": "Beyonce",
+            "title": "Halo",
+            "time": "4:21"
+        },
+        {
+            "artist": "Beyonce",
+            "title": "Love On Top",
+            "time": "4:27"
+        },
+        {
+            "artist": "Beyonce",
+            "title": "Run The World (Girls)",
+            "time": "3:56"
+        },
+        {
+            "artist": "Lauv",
+            "title": "Paris In The Rain",
+            "time": "3:24"
+        },
+        {
+            "artist": "Lauv",
+            "title": "I Like Me Better",
+            "time": "3:17"
+        },
+        {
+            "artist": "Lauv & Troye Sivan",
+            "title": "i'm so tired...",
+            "time": "2:42"
+        },
+        {
+            "artist": "The Weeknd & Ariana Grande",
+            "title": "Save Your Tears (Remix)",
+            "time": "3:11"
+        },
+        {
+            "artist": "The Weeknd",
+            "title": "Out of Time",
+            "time": "3:34"
+        },
+        {
+            "artist": "Bruno Mars & Anderson .Paak & Silk Sonic",
+            "title": "Leave The Door Open",
+            "time": "4:02"
+        },
+        {
+            "artist": "Bruno Mars",
+            "title": "Treasure",
+            "time": "2:58"
+        },
+        {
+            "artist": "Bruno Mars",
+            "title": "That's What I Like",
+            "time": "3:26"
+        },
+        {
+            "artist": "Bruno Mars",
+            "title": "Talking To The Moon",
+            "time": "3:37"
+        },
+        {
+            "artist": "Bruno Mars",
+            "title": "When I Was Your Man",
+            "time": "3:33"
+        },
+        {
+            "artist": "Lizzo",
+            "title": "Juice",
+            "time": "3:15"
+        },
+        {
+            "artist": "Lizzo",
+            "title": "Good As Hell (Feat. Ariana Grande)",
+            "time": "2:39"
+        },
+        {
+            "artist": "Dua Lipa",
+            "title": "Levitating (Feat. DaBaby)",
+            "time": "3:23"
+        },
+        {
+            "artist": "Calvin Harris & Dua Lipa",
+            "title": "One Kiss",
+            "time": "3:34"
+        },
+        {
+            "artist": "Dua Lipa",
+            "title": "IDGAF",
+            "time": "3:38"
+        },
+        {
+            "artist": "Selena Gomez",
+            "title": "Back To You",
+            "time": "3:30"
+        },
+        {
+            "artist": "Selena Gomez",
+            "title": "Lose You To Love Me",
+            "time": "3:26"
+        },
+        {
+            "artist": "Selena Gomez & Marshmello",
+            "title": "Wolves",
+            "time": "3:18"
+        },
+        {
+            "artist": "Halsey",
+            "title": "Be Kind",
+            "time": "2:52"
+        },
+        {
+            "artist": "Halsey",
+            "title": "Finally // beautiful stranger",
+            "time": "3:41"
+        },
+        {
+            "artist": "Justin Bieber",
+            "title": "Peaches (Feat. Daniel Caesar",
+            "time": " Giveon)"
+        },
+        {
+            "artist": "Justin Bieber",
+            "title": "Love Yourself",
+            "time": "3:53"
+        },
+        {
+            "artist": "Conan Gray",
+            "title": "Maniac",
+            "time": "3:05"
+        },
+        {
+            "artist": "Conan Gray",
+            "title": "Overdrive",
+            "time": "3:03"
+        },
+        {
+            "artist": "Conan Gray",
+            "title": "Heather",
+            "time": "3:18"
+        },
+        {
+            "artist": "Imagine Dragons",
+            "title": "Believer",
+            "time": "3:24"
+        },
+        {
+            "artist": "Imagine Dragons",
+            "title": "Thunder",
+            "time": "3:07"
+        },
+        {
+            "artist": "Imagine Dragons",
+            "title": "Walking The Wire",
+            "time": "3:07"
+        },
+        {
+            "artist": "Harry Styles",
+            "title": "Watermelon Sugar",
+            "time": "2:54"
+        },
+        {
+            "artist": "Harry Styles",
+            "title": "Adore You",
+            "time": "3:27"
+        },
+        {
+            "artist": "Harry Styles",
+            "title": "Sign of the Times",
+            "time": "5:40"
+        },
+        {
+            "artist": "Harry Styles",
+            "title": "Falling",
+            "time": "4:00"
+        },
+        {
+            "artist": "New Hope Club",
+            "title": "Medicine",
+            "time": "3:25"
+        },
+        {
+            "artist": "New Hope Club",
+            "title": "Let Me Down Slow",
+            "time": "2:43"
+        },
+        {
+            "artist": "New Hope Club",
+            "title": "Permission",
+            "time": "3:14"
+        },
+        {
+            "artist": "Ariana Grande",
+            "title": "Santa Tell Me",
+            "time": "3:24"
+        },
+        {
+            "artist": "Ariana Grande",
+            "title": "thank u, next",
+            "time": "3:27"
+        },
+        {
+            "artist": "Ariana Grande",
+            "title": "7 rings",
+            "time": "2:58"
+        },
+        {
+            "artist": "Jeremy Zucker",
+            "title": "comethru",
+            "time": "3:01"
+        },
+        {
+            "artist": "Jeremy Zucker",
+            "title": "supercuts",
+            "time": "3:26"
+        },
+        {
+            "artist": "Jeremy Zucker",
+            "title": "18",
+            "time": "2:30"
+        },
+        {
+            "artist": "Sam Smith",
+            "title": "I'm Not The Only One",
+            "time": "3:59"
+        },
+        {
+            "artist": "Sam Smith",
+            "title": "To Die For",
+            "time": "3:13"
+        },
+        {
+            "artist": "Sam Smith & Normani",
+            "title": "Dancing With A Stranger",
+            "time": "2:51"
+        },
+        {
+            "artist": "Sam Smith",
+            "title": "Too Good At Goodbyes",
+            "time": "3:21"
+        },
+        {
+            "artist": "Queen",
+            "title": "I Was Born To Love You",
+            "time": "4:49"
+        },
+        {
+            "artist": "Queen",
+            "title": "Love Of My Life",
+            "time": "3:37"
+        },
+        {
+            "artist": "Queen",
+            "title": "Under Pressure",
+            "time": "4:06"
+        },
+        {
+            "artist": "Queen",
+            "title": "Another One Bites The Dust",
+            "time": "3:35"
+        },
+        {
+            "artist": "Queen",
+            "title": "Don't Stop Me Now",
+            "time": "3:29"
+        },
+        {
+            "artist": "Green Day",
+            "title": "Basket Case",
+            "time": "3:03"
+        },
+        {
+            "artist": "Green Day",
+            "title": "Last Night On Earth",
+            "time": "3:56"
+        },
+        {
+            "artist": "Green Day",
+            "title": "Wake Me Up When September Ends",
+            "time": "4:45"
+        },
+        {
+            "artist": "Led Zeppelin",
+            "title": "Immigrant Song",
+            "time": "2:24"
+        },
+        {
+            "artist": "Led Zeppelin",
+            "title": "Stairway To Heaven",
+            "time": "8:02"
+        },
+        {
+            "artist": "AC/DC",
+            "title": "Back In Black",
+            "time": "4:15"
+        },
+        {
+            "artist": "AC/DC",
+            "title": "Highway to Hell",
+            "time": "3:28"
+        },
+        {
+            "artist": "Alan Walker",
+            "title": "Faded",
+            "time": "3:32"
+        },
+        {
+            "artist": "Alan Walker",
+            "title": "On My Way",
+            "time": "3:13"
+        },
+        {
+            "artist": "Zedd & Kehlani",
+            "title": "Good Thing",
+            "time": "3:30"
+        },
+        {
+            "artist": "Zedd",
+            "title": "The Middle",
+            "time": "3:04"
+        },
+        {
+            "artist": "Zedd",
+            "title": "Stay",
+            "time": "3:30"
+        }
+    ],
+    "mainstream_kpop": [
+        {
+            "artist": "CHUNG HA",
+            "title": "벌써 12시",
+            "time": "3:41"
+        },
+        {
+            "artist": "GFRIEND",
+            "title": "너 그리고 나(NAVILLRERA)",
+            "time": "3:13"
+        },
+        {
+            "artist": "WJSN",
+            "title": "비밀이야",
+            "time": "3:42"
+        },
+        {
+            "artist": "GOT7",
+            "title": "니가 하면",
+            "time": "3:30"
+        },
+        {
+            "artist": "TWICE",
+            "title": "FANCY",
+            "time": "3:33"
+        },
+        {
+            "artist": "LeeHi",
+            "title": "한숨",
+            "time": "4:49"
+        },
+        {
+            "artist": "SHINee",
+            "title": "VIew",
+            "time": "3:10"
+        },
+        {
+            "artist": "BEAST",
+            "title": "Good Luck",
+            "time": "3:22"
+        },
+        {
+            "artist": "Epik High",
+            "title": "Run",
+            "time": "3:29"
+        },
+        {
+            "artist": "TAEMIN",
+            "title": "MOVE",
+            "time": "3:31"
+        },
+        {
+            "artist": "Girls' Generation",
+            "title": "Mr.Mr.",
+            "time": "3:55"
+        },
+        {
+            "artist": "NCT U",
+            "title": "일곱 번째 감각",
+            "time": "3:34"
+        },
+        {
+            "artist": "DAY6",
+            "title": "아 왜(I wait)",
+            "time": "3:38"
+        },
+        {
+            "artist": "BTS",
+            "title": "I NEED U",
+            "time": "3:31"
+        },
+        {
+            "artist": "WINNER",
+            "title": "공허해",
+            "time": "3:40"
+        },
+        {
+            "artist": "SUPER JUNIOR",
+            "title": "THIS IS LOVE",
+            "time": "3:49"
+        },
+        {
+            "artist": "offonoff",
+            "title": "춤",
+            "time": "3:39"
+        },
+        {
+            "artist": "SISTAR",
+            "title": "나혼자",
+            "time": "3:26"
+        },
+        {
+            "artist": "TAEYANG",
+            "title": "눈, 코, 입",
+            "time": "3:50"
+        },
+        {
+            "artist": "Wonder Girls",
+            "title": "I Feel You",
+            "time": "3:25"
+        },
+        {
+            "artist": "OH MY GIRL",
+            "title": "CLOSER",
+            "time": "3:27"
+        },
+        {
+            "artist": "B1A4",
+            "title": "이게 무슨 일이야",
+            "time": "3:20"
+        },
+        {
+            "artist": "2NE1",
+            "title": "I Love You",
+            "time": "3:57"
+        },
+        {
+            "artist": "IU",
+            "title": "스물셋",
+            "time": "3:14"
+        },
+        {
+            "artist": "BIGBANG",
+            "title": "FANTASTIC BABY",
+            "time": "3:50"
+        },
+        {
+            "artist": "AKMU",
+            "title": "200%",
+            "time": "3:13"
+        },
+        {
+            "artist": "IZ*ONE",
+            "title": "라비앙로즈",
+            "time": "3:39"
+        },
+        {
+            "artist": "Jay Park",
+            "title": "All I Wannd DO",
+            "time": "3:36"
+        },
+        {
+            "artist": "G-DRAGON",
+            "title": "삐딱하게",
+            "time": "3:44"
+        },
+        {
+            "artist": "DEAN",
+            "title": "bonnie & clyde",
+            "time": "3:34"
+        },
+        {
+            "artist": "TAEYEON",
+            "title": "I",
+            "time": "3:26"
+        },
+        {
+            "artist": "LUNA",
+            "title": "Free Somebody",
+            "time": "3:19"
+        },
+        {
+            "artist": "KARA",
+            "title": "Pandora",
+            "time": "3:11"
+        },
+        {
+            "artist": "VIXX",
+            "title": "도원경(桃源鏡)",
+            "time": "3:22"
+        },
+        {
+            "artist": "ZICO",
+            "title": "너는 나 나는 너",
+            "time": "3:33"
+        },
+        {
+            "artist": "GIRL'S DAY",
+            "title": "기대해",
+            "time": "3:15"
+        },
+        {
+            "artist": "4minute",
+            "title": "미쳐",
+            "time": "3:11"
+        },
+        {
+            "artist": "Heize",
+            "title": "널 너무 모르고",
+            "time": "3:09"
+        },
+        {
+            "artist": "EXO",
+            "title": "으르렁",
+            "time": "3:27"
+        },
+        {
+            "artist": "FTISLAND",
+            "title": "좋겠어(I wish)",
+            "time": "3:41"
+        },
+        {
+            "artist": "EXID",
+            "title": "위아래",
+            "time": "3:09"
+        },
+        {
+            "artist": "SHINee",
+            "title": "LUCIFER",
+            "time": "3:53"
+        },
+        {
+            "artist": "After School",
+            "title": "Shampoo",
+            "time": "4:35"
+        },
+        {
+            "artist": "TVXQ",
+            "title": "왜(Keep Your Head Down)",
+            "time": "3:58"
+        },
+        {
+            "artist": "HyunA",
+            "title": "Bubble Pop!",
+            "time": "3:32"
+        },
+        {
+            "artist": "DAL★Shabet",
+            "title": "너 같은",
+            "time": "3:20"
+        },
+        {
+            "artist": "BIGBANG",
+            "title": "BAE BAE",
+            "time": "2:49"
+        },
+        {
+            "artist": "AOA",
+            "title": "짧은 치마",
+            "time": "2:59"
+        },
+        {
+            "artist": "Block B",
+            "title": "HER",
+            "time": "2:59"
+        },
+        {
+            "artist": "BTS",
+            "title": "봄날",
+            "time": "4:34"
+        },
+        {
+            "artist": "2PM",
+            "title": "하.니.뿐.",
+            "time": "4:06"
+        },
+        {
+            "artist": "PENTAGON",
+            "title": "빛나리",
+            "time": "3:18"
+        },
+        {
+            "artist": "IU",
+            "title": "팔레트",
+            "time": "3:37"
+        },
+        {
+            "artist": "f(x)",
+            "title": "첫 사랑니(Rum Pum Pmu Pum)",
+            "time": "3:19"
+        },
+        {
+            "artist": "MAMAMOO",
+            "title": "넌 is 뭔들",
+            "time": "3:50"
+        },
+        {
+            "artist": "miss A",
+            "title": "Bad Girl Good Girl",
+            "time": "3:37"
+        },
+        {
+            "artist": "iKON",
+            "title": "사랑을 했다",
+            "time": "3:29"
+        },
+        {
+            "artist": "SUNMI",
+            "title": "주인공",
+            "time": "3:15"
+        },
+        {
+            "artist": "Red Velvet",
+            "title": "Bad Boy",
+            "time": "3:30"
+        },
+        {
+            "artist": "BLACKPINK",
+            "title": "휘파람",
+            "time": "3:33"
+        },
+        {
+            "artist": "T-ARA",
+            "title": "Roly Poly",
+            "time": "3:34"
+        },
+        {
+            "artist": "SISTAR",
+            "title": "Touch My Body",
+            "time": "3:26"
+        },
+        {
+            "artist": "Wanna One",
+            "title": "에너제틱",
+            "time": "3:09"
+        },
+        {
+            "artist": "Brown Eyed Girls",
+            "title": "Sixth Sense",
+            "time": "3:47"
+        },
+        {
+            "artist": "Zion.T",
+            "title": "양화대교",
+            "time": "3:49"
+        },
+        {
+            "artist": "TWICE",
+            "title": "TT",
+            "time": "3:33"
+        },
+        {
+            "artist": "KARA",
+            "title": "STEP",
+            "time": "3:21"
+        },
+        {
+            "artist": "SEVENTEEN",
+            "title": "아주 NICE",
+            "time": "3:12"
+        },
+        {
+            "artist": "Lim Kim",
+            "title": "Awoo",
+            "time": "3:12"
+        },
+        {
+            "artist": "Wonder Girls",
+            "title": "Be My Baby",
+            "time": "3:31"
+        },
+        {
+            "artist": "EXO",
+            "title": "CALL ME BABY",
+            "time": "3:31"
+        },
+        {
+            "artist": "Crush",
+            "title": "Don't Be Shy",
+            "time": "3:37"
+        },
+        {
+            "artist": "f(x)",
+            "title": "4 Walls",
+            "time": "3:27"
+        },
+        {
+            "artist": "BIGBANG",
+            "title": "Bad Boy",
+            "time": "3:56"
+        },
+        {
+            "artist": "BTS",
+            "title": "피 땀 눈물",
+            "time": "3:37"
+        },
+        {
+            "artist": "SHINee",
+            "title": "Sherlock.셜록(Clue+Note)",
+            "time": "3:57"
+        },
+        {
+            "artist": "Girls' Generation",
+            "title": "I Got A Boy",
+            "time": "4:31"
+        },
+        {
+            "artist": "2NE1",
+            "title": "내가 제일 잘 나가",
+            "time": "3:28"
+        },
+        {
+            "artist": "INFINITE",
+            "title": "추격자",
+            "time": "3:20"
+        },
+        {
+            "artist": "Red Velvet",
+            "title": "빨간 맛",
+            "time": "3:11"
+        },
+        {
+            "artist": "IU",
+            "title": "좋은 날",
+            "time": "3:55"
+        },
+        {
+            "artist": "ITZY",
+            "title": "LOCO",
+            "time": "3:11"
+        },
+        {
+            "artist": "HyunA & E'DAWN",
+            "title": "PING PONG",
+            "time": "2:38"
+        },
+        {
+            "artist": "SUNMI",
+            "title": "You can't sit with us",
+            "time": "3:17"
+        },
+        {
+            "artist": "SOMI",
+            "title": "DUMB DUMB",
+            "time": "2:29"
+        },
+        {
+            "artist": "LOONA",
+            "title": "PTT (Paint the Town)",
+            "time": "3:21"
+        },
+        {
+            "artist": "STAYC",
+            "title": "색안경 (STEREOTYPE)",
+            "time": "3:11"
+        },
+        {
+            "artist": "STAYC",
+            "title": "ASAP",
+            "time": "3:14"
+        },
+        {
+            "artist": "OH MY GIRL",
+            "title": "Dun Dun Dance",
+            "time": "3:40"
+        },
+        {
+            "artist": "aespa",
+            "title": "Next Level",
+            "time": "3:41"
+        },
+        {
+            "artist": "HyunA",
+            "title": "I'm Not Cool",
+            "time": "2:54"
+        },
+        {
+            "artist": "ROSÉ",
+            "title": "On the Ground",
+            "time": "2:48"
+        },
+        {
+            "artist": "TAEYEON",
+            "title": "Weekend",
+            "time": "3:53"
+        },
+        {
+            "artist": "fromis_9",
+            "title": "WE GO",
+            "time": "2:56"
+        },
+        {
+            "artist": "Red Velvet",
+            "title": "Queendom",
+            "time": "3:01"
+        },
+        {
+            "artist": "TWICE",
+            "title": "The Feels",
+            "time": "3:18"
+        },
+        {
+            "artist": "NCT 127",
+            "title": "Highway To Heaven",
+            "time": "3:20"
+        },
+        {
+            "artist": "NU'EST W",
+            "title": "북극성 (Polaris)",
+            "time": "4:01"
+        },
+        {
+            "artist": "N.Flying",
+            "title": "HOW R U TODAY",
+            "time": "3:08"
+        },
+        {
+            "artist": "SHINee",
+            "title": "데리러가 (Good Evening)",
+            "time": "3:43"
+        },
+        {
+            "artist": "SF9",
+            "title": "오솔레미오 (O Sole Mio)",
+            "time": "3:21"
+        },
+        {
+            "artist": "SEVENTEEN",
+            "title": "우리의 새벽은 낮보다 뜨겁다",
+            "time": "3:32"
+        },
+        {
+            "artist": "GOT7",
+            "title": "Never Ever",
+            "time": "3:14"
+        },
+        {
+            "artist": "NU'EST W",
+            "title": "Dejavu",
+            "time": "3:19"
+        },
+        {
+            "artist": "ATEEZ",
+            "title": "Answer",
+            "time": "3:41"
+        },
+        {
+            "artist": "VERIVERY",
+            "title": "Tag Tag Tag",
+            "time": "3:05"
+        },
+        {
+            "artist": "DAY6",
+            "title": "예뻤어",
+            "time": "4:43"
+        },
+        {
+            "artist": "몬스타엑스",
+            "title": "Shoot Out",
+            "time": "3:27"
+        },
+        {
+            "artist": "THE BOYZ",
+            "title": "No Air",
+            "time": "4:04"
+        },
+        {
+            "artist": "NCT 127",
+            "title": "Welcome To My Playground",
+            "time": "3:59"
+        },
+        {
+            "artist": "PENTAGON",
+            "title": "접근금지 (Prod. By 기리보이)",
+            "time": "3:12"
+        },
+        {
+            "artist": "ONEUS",
+            "title": "쉽게 쓰여진 노래 (A Song Written Easily)",
+            "time": "3:33"
+        },
+        {
+            "artist": "NCT DREAM",
+            "title": "Trigger The Fever",
+            "time": "3:26"
+        },
+        {
+            "artist": "THE BOYZ",
+            "title": "D.D.D",
+            "time": "3:32"
+        },
+        {
+            "artist": "EXO",
+            "title": "Power",
+            "time": "3:42"
+        },
+        {
+            "artist": "EXO",
+            "title": "LOVE ME RIGHT",
+            "time": "3:25"
+        },
+        {
+            "artist": "EXO",
+            "title": "부메랑(Boomerang)",
+            "time": "3:00"
+        },
+        {
+            "artist": "백현",
+            "title": "Candy(캔디)",
+            "time": "3:47"
+        },
+        {
+            "artist": "NCT DREAM",
+            "title": "BOOM",
+            "time": "3:15"
+        },
+        {
+            "artist": "NCT 127",
+            "title": "영웅(英雄; Kick It)",
+            "time": "3:53"
+        },
+        {
+            "artist": "NCT U",
+            "title": "90's Love",
+            "time": "3:33"
+        },
+        {
+            "artist": "NCT DREAM",
+            "title": "We Go Up",
+            "time": "3:03"
+        },
+        {
+            "artist": "SUPER JUNIOR",
+            "title": "Devil",
+            "time": "3:36"
+        },
+        {
+            "artist": "SUPER JUNIOR",
+            "title": "Hous Party",
+            "time": "4:01"
+        },
+        {
+            "artist": "SUPER JUNIOR",
+            "title": "Miracle",
+            "time": "2:56"
+        },
+        {
+            "artist": "SUPER JUNIOR D&E",
+            "title": "1+1=LOVE",
+            "time": "3:32"
+        },
+        {
+            "artist": "SEVENTEEN",
+            "title": "예쁘다",
+            "time": "3:27"
+        },
+        {
+            "artist": "SEVENTEEN",
+            "title": "HIT",
+            "time": "3:23"
+        },
+        {
+            "artist": "INFINITE",
+            "title": "내꺼하자",
+            "time": "3:24"
+        },
+        {
+            "artist": "TVXQ",
+            "title": "풍선(Ballons)",
+            "time": "3:49"
+        },
+        {
+            "artist": "WINNER",
+            "title": "ISLAND",
+            "time": "3:27"
+        },
+        {
+            "artist": "WINNER",
+            "title": "AH YEAH(아예)",
+            "time": "2:56"
+        },
+        {
+            "artist": "ONF",
+            "title": "Complete(널 만난 순간)",
+            "time": "3:06"
+        },
+        {
+            "artist": "TXT",
+            "title": "9와 4분의 3 승장장에서 너를 기다려(Run Away)",
+            "time": "3:31"
+        },
+        {
+            "artist": "DAY6",
+            "title": "한 페이지가 될 수 있게",
+            "time": "3:25"
+        },
+        {
+            "artist": "THE BOYZ",
+            "title": "Whiplash",
+            "time": "3:25"
+        },
+        {
+            "artist": "N.Flying",
+            "title": "아 진짜요(Oh really.)",
+            "time": "3:15"
+        },
+        {
+            "artist": "Hightlight",
+            "title": "얼굴 찌푸리지 말아요",
+            "time": "3:16"
+        },
+        {
+            "artist": "GOT7",
+            "title": "Lullaby",
+            "time": "3:37"
+        },
+        {
+            "artist": "BTS",
+            "title": "작은 것들을 위한 시(Boy With Luv)(Feat. Halsey)",
+            "time": "3:49"
+        },
+        {
+            "artist": "NU'EST",
+            "title": "LOVE ME",
+            "time": "3:03"
+        },
+        {
+            "artist": "ATEEZ",
+            "title": "WAVE",
+            "time": "3:23"
+        },
+        {
+            "artist": "BTOB",
+            "title": "신바람",
+            "time": "3:57"
+        },
+        {
+            "artist": "GFRIEND",
+            "title": "MAGO",
+            "time": "3:19"
+        },
+        {
+            "artist": "BLACKPINK",
+            "title": "Lovesick Girls",
+            "time": "3:14"
+        },
+        {
+            "artist": "GFRIEND",
+            "title": "Love Spell",
+            "time": "3:08"
+        },
+        {
+            "artist": "Brave Girls",
+            "title": "치맛바람",
+            "time": "3:37"
+        },
+        {
+            "artist": "LABOUM",
+            "title": "상상더하기",
+            "time": "4:02"
+        },
+        {
+            "artist": "MAMAMOO",
+            "title": "딩가딩가",
+            "time": "2:59"
+        },
+        {
+            "artist": "OH MY GIRL",
+            "title": "살짝 설렜어",
+            "time": "3:22"
+        },
+        {
+            "artist": "TWICE",
+            "title": "Alcohol-Free",
+            "time": "3:30"
+        },
+        {
+            "artist": "Weekly",
+            "title": "After School",
+            "time": "3:42"
+        },
+        {
+            "artist": "Brave Girls",
+            "title": "운전만해",
+            "time": "3:09"
+        },
+        {
+            "artist": "BIGBANG",
+            "title": "Stupid Liar",
+            "time": "3:54"
+        },
+        {
+            "artist": "BEAST",
+            "title": "Beautiful",
+            "time": "3:37"
+        },
+        {
+            "artist": "BIGBANG",
+            "title": "거짓말",
+            "time": "3:49"
+        },
+        {
+            "artist": "B1A4",
+            "title": "SOLO DAY",
+            "time": "3:19"
+        },
+        {
+            "artist": "iKON",
+            "title": "이별길",
+            "time": "3:59"
+        },
+        {
+            "artist": "CNBLUE",
+            "title": "외톨이야",
+            "time": "3:39"
+        },
+        {
+            "artist": "BTS",
+            "title": "Save Me",
+            "time": "3:16"
+        },
+        {
+            "artist": "Block B",
+            "title": "Toy",
+            "time": "3:26"
+        },
+        {
+            "artist": "HENRY",
+            "title": "Trap",
+            "time": "3:45"
+        },
+        {
+            "artist": "N.Flying",
+            "title": "옥탑방 (Rooftop)",
+            "time": "3:30"
+        },
+        {
+            "artist": "ZE:A",
+            "title": "후유증",
+            "time": "3:42"
+        },
+        {
+            "artist": "BEAST",
+            "title": "비가 오는 날엔",
+            "time": "3:45"
+        },
+        {
+            "artist": "FTISLAND",
+            "title": "지독하게",
+            "time": "4:12"
+        },
+        {
+            "artist": "Wanna One",
+            "title": "Beautiful",
+            "time": "3:16"
+        },
+        {
+            "artist": "BIGBANG",
+            "title": "붉은 노을",
+            "time": "3:27"
+        },
+        {
+            "artist": "BTOB",
+            "title": "괜찮아요",
+            "time": "4:11"
+        },
+        {
+            "artist": "CNBLUE",
+            "title": "Love",
+            "time": "3:48"
+        },
+        {
+            "artist": "WINNER",
+            "title": "Love Me Love Me",
+            "time": "3:37"
+        },
+        {
+            "artist": "BTOB",
+            "title": "그리워하다",
+            "time": "3:56"
+        },
+        {
+            "artist": "TEENTOP",
+            "title": "긴 생머리 그녀",
+            "time": "3:17"
+        },
+        {
+            "artist": "SF9",
+            "title": "Fall In Love",
+            "time": "3:45"
+        },
+        {
+            "artist": "DAY6",
+            "title": "You make Me",
+            "time": "3:39"
+        },
+        {
+            "artist": "Stray Kids",
+            "title": "미친 놈(Ex)",
+            "time": "3:37"
+        },
+        {
+            "artist": "NU'EST W",
+            "title": "Dejavu",
+            "time": "3:19"
+        },
+        {
+            "artist": "ONF",
+            "title": "사랑하게 될 거야 (We Must Love)",
+            "time": "3:11"
+        },
+        {
+            "artist": "PENTAGON",
+            "title": "밤에 비가 내리면",
+            "time": "4:05"
+        },
+        {
+            "artist": "DAY6",
+            "title": "Love me or Leave me",
+            "time": "3:42"
+        },
+        {
+            "artist": "SEVENTEEN",
+            "title": "Ready to love",
+            "time": "3:06"
+        },
+        {
+            "artist": "N.Flying",
+            "title": "FLOWER FANTASY",
+            "time": "3:06"
+        },
+        {
+            "artist": "AB6IX",
+            "title": "아직도 겨울 (A LONG WINTER)",
+            "time": "3:21"
+        },
+        {
+            "artist": "PENTAGON",
+            "title": "봄눈",
+            "time": "4:01"
+        },
+        {
+            "artist": "CRAVITY",
+            "title": "별",
+            "time": "3:49"
+        },
+        {
+            "artist": "SF9",
+            "title": "널 꽉 잡은 손만큼 (Like The Hands Tight)",
+            "time": "3:30"
+        },
+        {
+            "artist": "NCT DREAM",
+            "title": "우리의 계절 (My Youth)",
+            "time": "3:56"
+        },
+        {
+            "artist": "GOT7",
+            "title": "Take Me To You",
+            "time": "3:14"
+        },
+        {
+            "artist": "Scenery of Riding Bicycle",
+            "title": "너에게 난 나에게 넌",
+            "time": "3:42"
+        },
+        {
+            "artist": "Cool",
+            "title": "All For You",
+            "time": "4:15"
+        },
+        {
+            "artist": "Kim Hyung Joong",
+            "title": "그랬나봐",
+            "time": "4:29"
+        },
+        {
+            "artist": "G-DRAGON",
+            "title": "무제(無題) (Untitled",
+            "time": " 2014)"
+        },
+        {
+            "artist": "Jennie",
+            "title": "SOLO",
+            "time": "2:49"
+        },
+        {
+            "artist": "ITZY",
+            "title": "WANNABE",
+            "time": "3:11"
+        },
+        {
+            "artist": "THE BOYZ",
+            "title": "REVEAL",
+            "time": "3:22"
+        },
+        {
+            "artist": "Stray Kids",
+            "title": "Back Door",
+            "time": "3:09"
+        },
+        {
+            "artist": "SEVENTEEN",
+            "title": "숨이 차",
+            "time": "3:03"
+        },
+        {
+            "artist": "BTS",
+            "title": "MIC Drop (Steve Aoki Remix)",
+            "time": "3:58"
+        },
+        {
+            "artist": "NCT U",
+            "title": "Boss",
+            "time": "3:30"
+        },
+        {
+            "artist": "VERIVERY",
+            "title": "Paradise",
+            "time": "3:33"
+        },
+        {
+            "artist": "MONSTA X",
+            "title": "무단침입",
+            "time": "3:25"
+        },
+        {
+            "artist": "MONSTA X",
+            "title": "신속히 (RUSH)",
+            "time": "3:42"
+        },
+        {
+            "artist": "MONSTA X",
+            "title": "HERO",
+            "time": "3:52"
+        },
+        {
+            "artist": "MONSTA X",
+            "title": "걸어 (All in)",
+            "time": "3:10"
+        },
+        {
+            "artist": "MONSTA X",
+            "title": "Fighter",
+            "time": "3:38"
+        },
+        {
+            "artist": "MONSTA X",
+            "title": "SHINE FOREVER",
+            "time": "3:28"
+        },
+        {
+            "artist": "MONSTA X",
+            "title": "DRAMARAMA",
+            "time": "3:06"
+        },
+        {
+            "artist": "MONSTA X",
+            "title": "Jealousy",
+            "time": "3:27"
+        },
+        {
+            "artist": "MONSTA X",
+            "title": "Killin' Me",
+            "time": "3:22"
+        },
+        {
+            "artist": "ATEEZ",
+            "title": "안개",
+            "time": "3:19"
+        },
+        {
+            "artist": "ATEEZ",
+            "title": "WIN",
+            "time": "3:22"
+        },
+        {
+            "artist": "ATEEZ",
+            "title": "지평선 (Horizon)",
+            "time": "3:13"
+        },
+        {
+            "artist": "ATEEZ",
+            "title": "FEVER",
+            "time": "3:24"
+        },
+        {
+            "artist": "ATEEZ",
+            "title": "THANXX",
+            "time": "3:01"
+        },
+        {
+            "artist": "ATEEZ",
+            "title": "INCEPTION",
+            "time": "3:30"
+        },
+        {
+            "artist": "ENHYPEN",
+            "title": "Tamed-Dashed",
+            "time": "3:16"
+        },
+        {
+            "artist": "ENHYPEN",
+            "title": "Drunk-Dazed",
+            "time": "3:13"
+        },
+        {
+            "artist": "ENHYPEN",
+            "title": "Given-Taken",
+            "time": "3:03"
+        },
+        {
+            "artist": "ENHYPEN",
+            "title": "Upper Side Dreamin’",
+            "time": "3:09"
+        },
+        {
+            "artist": "ENHYPEN",
+            "title": "Let Me In (20 CUBE)",
+            "time": "3:09"
+        },
+        {
+            "artist": "ENHYPEN",
+            "title": "모 아니면 도 (Go Big or Go Home)",
+            "time": "3:21"
+        },
+        {
+            "artist": "ENHYPEN",
+            "title": "Blockbuster (액션 영화처럼)",
+            "time": "3:47"
+        },
+        {
+            "artist": "ENHYPEN",
+            "title": "Attention",
+            "time": " please!"
+        },
+        {
+            "artist": "ENHYPEN",
+            "title": "몰랐어",
+            "time": "2:47"
+        },
+        {
+            "artist": "GOT the beat",
+            "title": "Step Back",
+            "time": "3:50"
+        },
+        {
+            "artist": "IVE",
+            "title": "ELEVEN",
+            "time": "2:58"
+        },
+        {
+            "artist": "ITZY",
+            "title": "달라달라",
+            "time": "3:20"
+        },
+        {
+            "artist": "aespa",
+            "title": "Dreams Come True",
+            "time": "3:24"
+        },
+        {
+            "artist": "aespa",
+            "title": "Savage",
+            "time": "3:58"
+        },
+        {
+            "artist": "aespa",
+            "title": "Black Mamba",
+            "time": "2:54"
+        },
+        {
+            "artist": "Kep1er",
+            "title": "WA DA DA",
+            "time": "3:03"
+        },
+        {
+            "artist": "LISA",
+            "title": "MONEY",
+            "time": "2:48"
+        },
+        {
+            "artist": "LISA",
+            "title": "LALISA",
+            "time": "3:20"
+        },
+        {
+            "artist": "SOMI",
+            "title": "XOXO",
+            "time": "3:27"
+        },
+        {
+            "artist": "SOMI",
+            "title": "What You Waiting For",
+            "time": "2:55"
+        },
+        {
+            "artist": "BLACKPINK",
+            "title": "뚜두뚜두",
+            "time": "3:31"
+        },
+        {
+            "artist": "BLACKPINK",
+            "title": "Forever Young",
+            "time": "3:59"
+        },
+        {
+            "artist": "IZ*ONE",
+            "title": "Panorama",
+            "time": "3:42"
+        },
+        {
+            "artist": "IZ*ONE",
+            "title": "Fiesta",
+            "time": "3:37"
+        },
+        {
+            "artist": "Stray Kids",
+            "title": "Gone Away",
+            "time": "4:01"
+        },
+        {
+            "artist": "Stray Kids",
+            "title": "My universe",
+            "time": "3:23"
+        },
+        {
+            "artist": "Stray Kids",
+            "title": "바보라도 알아",
+            "time": "3:27"
+        },
+        {
+            "artist": "Stray Kids",
+            "title": "24 to 25",
+            "time": "3:36"
+        },
+        {
+            "artist": "Stray Kids",
+            "title": "Winter Falls",
+            "time": "3:55"
+        },
+        {
+            "artist": "TREASURE",
+            "title": "직진",
+            "time": "3:04"
+        },
+        {
+            "artist": "TREASURE",
+            "title": "BOY",
+            "time": "3:16"
+        },
+        {
+            "artist": "TREASURE",
+            "title": "MY TREASURE",
+            "time": "3:16"
+        },
+        {
+            "artist": "TREASURE",
+            "title": "사랑해",
+            "time": "3:01"
+        },
+        {
+            "artist": "TREASURE",
+            "title": "음",
+            "time": "3:28"
+        },
+        {
+            "artist": "GOT7",
+            "title": "니가 부르는 나의 이름",
+            "time": "3:14"
+        },
+        {
+            "artist": "GOT7",
+            "title": "딱 좋아",
+            "time": "3:42"
+        },
+        {
+            "artist": "GOT7",
+            "title": "하드캐리",
+            "time": "3:11"
+        },
+        {
+            "artist": "SEVENTEEN",
+            "title": "Rock with you",
+            "time": "3:00"
+        },
+        {
+            "artist": "SEVENTEEN",
+            "title": "어쩌나",
+            "time": "3:15"
+        },
+        {
+            "artist": "PENTAGON",
+            "title": "청개구리",
+            "time": "3:18"
+        },
+        {
+            "artist": "PENTAGON",
+            "title": "데이지",
+            "time": "3:09"
+        },
+        {
+            "artist": "PENTAGON",
+            "title": "Feelin' Like",
+            "time": "2:47"
+        },
+        {
+            "artist": "iKON",
+            "title": "취향저격",
+            "time": "3:30"
+        },
+        {
+            "artist": "iKON",
+            "title": "죽겠다",
+            "time": "3:13"
+        },
+        {
+            "artist": "iKON",
+            "title": "리듬타",
+            "time": "3:46"
+        },
+        {
+            "artist": "Block B",
+            "title": "Yesterday",
+            "time": "2:48"
+        },
+        {
+            "artist": "Block B",
+            "title": "JACKPOT",
+            "time": "3:13"
+        },
+        {
+            "artist": "Block B",
+            "title": "닐리리맘보",
+            "time": "3:25"
+        },
+        {
+            "artist": "VIXX",
+            "title": "사슬 (Chained Up)",
+            "time": "3:12"
+        },
+        {
+            "artist": "VIXX",
+            "title": "이별공식",
+            "time": "3:29"
+        },
+        {
+            "artist": "VIXX",
+            "title": "기적 (ETERNITY)",
+            "time": "3:03"
+        },
+        {
+            "artist": "LOONA",
+            "title": "Why Not?",
+            "time": "3:25"
+        },
+        {
+            "artist": "LOONA",
+            "title": "So What",
+            "time": "3:18"
+        },
+        {
+            "artist": "(G)I-DLE",
+            "title": "LION",
+            "time": "3:31"
+        },
+        {
+            "artist": "(G)I-DLE",
+            "title": "Uh-Oh",
+            "time": "3:27"
+        },
+        {
+            "artist": "WJSN",
+            "title": "이루리",
+            "time": "3:15"
+        },
+        {
+            "artist": "WJSN",
+            "title": "너에게 닿기를 (I Wish)",
+            "time": "3:38"
+        },
+        {
+            "artist": "I.O.I",
+            "title": "소나기",
+            "time": "3:54"
+        },
+        {
+            "artist": "I.O.I",
+            "title": "너무너무너무",
+            "time": "3:23"
+        },
+        {
+            "artist": "I.O.I",
+            "title": "벚꽃이 지면",
+            "time": "3:23"
+        },
+        {
+            "artist": "2NE1",
+            "title": "I Don't Care",
+            "time": "3:59"
+        },
+        {
+            "artist": "2NE1",
+            "title": "Come Back Home",
+            "time": "3:49"
+        },
+        {
+            "artist": "2NE1",
+            "title": "Go Away",
+            "time": "3:39"
+        },
+        {
+            "artist": "2NE1",
+            "title": "Ugly",
+            "time": "4:08"
+        },
+        {
+            "artist": "Miss A",
+            "title": "다른 남자 말고 너",
+            "time": "3:18"
+        },
+        {
+            "artist": "Miss A",
+            "title": "Hush",
+            "time": "3:06"
+        },
+        {
+            "artist": "IU",
+            "title": "밤편지",
+            "time": "4:13"
+        },
+        {
+            "artist": "IU",
+            "title": "너의 의미 (Feat.김창완)",
+            "time": "3:15"
+        },
+        {
+            "artist": "IU",
+            "title": "봄 사랑 벚꽃 말고",
+            "time": "3:15"
+        },
+        {
+            "artist": "IU",
+            "title": "Love poem",
+            "time": "4:18"
+        },
+        {
+            "artist": "AKMU",
+            "title": "어떻게 이별까지 사랑하겠어",
+            "time": " 널 사랑하는 거지"
+        },
+        {
+            "artist": "AKMU",
+            "title": "오랜 날 오랜 밤",
+            "time": "4:43"
+        },
+        {
+            "artist": "AKMU",
+            "title": "DINOSAUR",
+            "time": "4:00"
+        },
+        {
+            "artist": "AKMU",
+            "title": "다리꼬지마",
+            "time": "1:58"
+        },
+        {
+            "artist": "THE BOYZ",
+            "title": "THRILL RIDE",
+            "time": "3:16"
+        }
+    ],
+    "indie_kpop": [
+        {
+            "artist": "OOHYO",
+            "title": "청춘",
+            "time": "3:05"
+        },
+        {
+            "artist": "Damons Year",
+            "title": "Auburn",
+            "time": "3:05"
+        },
+        {
+            "artist": "Damons Year",
+            "title": "josee!",
+            "time": "2:03"
+        },
+        {
+            "artist": "Damons Year",
+            "title": "yours",
+            "time": "2:45"
+        },
+        {
+            "artist": "SURL",
+            "title": "열기구",
+            "time": "3:59"
+        },
+        {
+            "artist": "Nerd Connection",
+            "title": "좋은 밤 좋은 꿈",
+            "time": "4:26"
+        },
+        {
+            "artist": "HYUKOH",
+            "title": "Paul",
+            "time": "4:30"
+        },
+        {
+            "artist": "Dasutt",
+            "title": "Youth",
+            "time": "6:01"
+        },
+        {
+            "artist": "Jannabi",
+            "title": "뜨거운 여름밤은 가고 남은 건 볼품없지만",
+            "time": "4:03"
+        },
+        {
+            "artist": "Jannabi",
+            "title": "She",
+            "time": "3:14"
+        },
+        {
+            "artist": "The Black Skirts",
+            "title": "EVERYTHING",
+            "time": "4:53"
+        },
+        {
+            "artist": "Jang Beom June",
+            "title": "회상",
+            "time": "4:28"
+        },
+        {
+            "artist": "Jannabi",
+            "title": "주저하는 연인들을 위해",
+            "time": "4:25"
+        },
+        {
+            "artist": "Deli Spice",
+            "title": "고백",
+            "time": "5:24"
+        },
+        {
+            "artist": "Car, the garden",
+            "title": "우리의 밤을 외워요",
+            "time": "4:02"
+        },
+        {
+            "artist": "HYUKOH",
+            "title": "LOVE YA!",
+            "time": "4:12"
+        },
+        {
+            "artist": "Jannabi",
+            "title": "처음 만날때처럼",
+            "time": "3:24"
+        },
+        {
+            "artist": "FROMM",
+            "title": "반딧불이",
+            "time": "3:58"
+        },
+        {
+            "artist": "The Black Skirts",
+            "title": "나랑 아니면",
+            "time": "4:31"
+        },
+        {
+            "artist": "Night Off",
+            "title": "잠",
+            "time": "4:15"
+        },
+        {
+            "artist": "HYUKOH",
+            "title": "TOMBOY",
+            "time": "4:01"
+        },
+        {
+            "artist": "Jannabi",
+            "title": "꿈과 책과 힘과 벽",
+            "time": "4:57"
+        },
+        {
+            "artist": "Yoon ji young",
+            "title": "언젠가 너와 나",
+            "time": "3:39"
+        },
+        {
+            "artist": "The Black Skirts",
+            "title": "하와이 검은 모래",
+            "time": "4:16"
+        },
+        {
+            "artist": "Jannabi",
+            "title": "나의 기쁨 나의 노래",
+            "time": "3:36"
+        },
+        {
+            "artist": "Car, the garden",
+            "title": "꿈을 꿨어요",
+            "time": "3:20"
+        },
+        {
+            "artist": "The Black Skirts",
+            "title": "난 아니에요",
+            "time": "3:31"
+        },
+        {
+            "artist": "jungumul",
+            "title": "blue",
+            "time": "4:35"
+        },
+        {
+            "artist": "Car, the garden",
+            "title": "31",
+            "time": "3:14"
+        },
+        {
+            "artist": "The Black Skirts",
+            "title": "혜야",
+            "time": "5:25"
+        },
+        {
+            "artist": "Jannabi",
+            "title": "가을밤에 든 생각",
+            "time": "3:07"
+        },
+        {
+            "artist": "The Black Skirts",
+            "title": "SOMEDAY",
+            "time": "4:05"
+        },
+        {
+            "artist": "SE SO NEON",
+            "title": "나는 새롭게 떠오른 외로움을 봐요",
+            "time": "3:49"
+        },
+        {
+            "artist": "zunhozoon",
+            "title": "After 10 Days",
+            "time": "3:05"
+        },
+        {
+            "artist": "Juk Jae",
+            "title": "나랑 같이 걸을래",
+            "time": "3:46"
+        },
+        {
+            "artist": "Car, the garden",
+            "title": "의연한 악수",
+            "time": "3:43"
+        },
+        {
+            "artist": "zunhozoon",
+            "title": "Message In A Bottle",
+            "time": "5:13"
+        },
+        {
+            "artist": "Car, the garden",
+            "title": "명동콜링",
+            "time": "3:56"
+        },
+        {
+            "artist": "J Rabbit",
+            "title": "내일을 묻는다",
+            "time": "3:25"
+        },
+        {
+            "artist": "zunhozoon",
+            "title": "사람이 사랑하면 안 돼요",
+            "time": "4:03"
+        },
+        {
+            "artist": "The Black Skirts",
+            "title": "기다린 만큼 더",
+            "time": "4:29"
+        },
+        {
+            "artist": "Car, the garden",
+            "title": "나무",
+            "time": "3:52"
+        },
+        {
+            "artist": "Car, the garden",
+            "title": "밤새",
+            "time": "3:19"
+        },
+        {
+            "artist": "HYUKOH",
+            "title": "월량대표아적심",
+            "time": "1:55"
+        },
+        {
+            "artist": "Deli Spice",
+            "title": "챠우챠우",
+            "time": "4:28"
+        },
+        {
+            "artist": "ALEPH",
+            "title": "Fall in Love Again ",
+            "time": "3:38"
+        },
+        {
+            "artist": "Meaningful Stone",
+            "title": "꿈속의 카메라 ",
+            "time": "4:28"
+        },
+        {
+            "artist": "Stella Jang",
+            "title": "Colors",
+            "time": "1:41"
+        },
+        {
+            "artist": "Sunwoo Jung A",
+            "title": "도망가자",
+            "time": "4:30"
+        },
+        {
+            "artist": "Sunwoo Jung A",
+            "title": "구애",
+            "time": "3:33"
+        },
+        {
+            "artist": "Kim Kak Sung",
+            "title": "인연이란 비관으로 ",
+            "time": "3:46"
+        },
+        {
+            "artist": "TEYUN",
+            "title": "망부석 ",
+            "time": "5:30"
+        },
+        {
+            "artist": "Lundi Blues",
+            "title": "눈빛 ",
+            "time": "3:56"
+        },
+        {
+            "artist": "Luli Lee",
+            "title": "Dive",
+            "time": "3:41"
+        },
+        {
+            "artist": "SE SO NEON",
+            "title": "새소년 ",
+            "time": "4:49"
+        },
+        {
+            "artist": "Band Nah",
+            "title": "불빛",
+            "time": "3:47"
+        },
+        {
+            "artist": "ADOY",
+            "title": "Wonder",
+            "time": "3:55"
+        },
+        {
+            "artist": "The Rose",
+            "title": "California ",
+            "time": "2:50"
+        },
+        {
+            "artist": "O.O.O",
+            "title": "눈이 마주쳤을 때",
+            "time": "3:17"
+        },
+        {
+            "artist": "Land of PeacE",
+            "title": "Hometown",
+            "time": "3:55"
+        },
+        {
+            "artist": "cotoba",
+            "title": "로스",
+            "time": "5:08"
+        },
+        {
+            "artist": "Sumsher",
+            "title": "tokyo (Feat. 팔드로)",
+            "time": "3:27"
+        },
+        {
+            "artist": "Naivesign",
+            "title": "Sea On A Summer Night",
+            "time": "4:44"
+        },
+        {
+            "artist": "Acourve",
+            "title": "하고 싶은 말",
+            "time": "3:33"
+        },
+        {
+            "artist": "Acoustic Collabo",
+            "title": "그대와 나, 설레임",
+            "time": "3:38"
+        },
+        {
+            "artist": "Acourve",
+            "title": "그게 뭐라고",
+            "time": "3:17"
+        },
+        {
+            "artist": "40",
+            "title": "듣는편지",
+            "time": "3:24"
+        },
+        {
+            "artist": "Motte",
+            "title": "도망가지마",
+            "time": "4:08"
+        },
+        {
+            "artist": "Acourve",
+            "title": "잡지 않았어",
+            "time": "3:31"
+        },
+        {
+            "artist": "Sweden Laundry",
+            "title": "목소리",
+            "time": "3:51"
+        },
+        {
+            "artist": "O.WHEN",
+            "title": "오늘",
+            "time": "3:52"
+        },
+        {
+            "artist": "One More Chance",
+            "title": "널 생각해",
+            "time": "4:08"
+        },
+        {
+            "artist": "Mad Clown, Stella Jang",
+            "title": "No Question",
+            "time": "3:10"
+        },
+        {
+            "artist": "Acoustic Collabo",
+            "title": "묘해 너와",
+            "time": "4:00"
+        },
+        {
+            "artist": "Sweden Laundry",
+            "title": "우리가 있던 시간",
+            "time": "3:57"
+        },
+        {
+            "artist": "Sunwoo Jung A",
+            "title": "고양이",
+            "time": "3:12"
+        },
+        {
+            "artist": "Lee Seol Ah",
+            "title": "말을건다",
+            "time": "3:54"
+        },
+        {
+            "artist": "Let’s!",
+            "title": "호피폴라",
+            "time": "3:15"
+        },
+        {
+            "artist": "SURL",
+            "title": "Like Feathers",
+            "time": "2:56"
+        },
+        {
+            "artist": "MOVNING",
+            "title": "폼페이(Love is Forever)",
+            "time": "3:47"
+        },
+        {
+            "artist": "Band Nah",
+            "title": "각자의 밤",
+            "time": "4:07"
+        },
+        {
+            "artist": "Kiha & The Faces",
+            "title": "기상시간은 정해져 있다",
+            "time": "1:36"
+        },
+        {
+            "artist": "Dasutt",
+            "title": "비둘기",
+            "time": "3:30"
+        },
+        {
+            "artist": "The Poles",
+            "title": "moon in water",
+            "time": "4:20"
+        },
+        {
+            "artist": "ADOY",
+            "title": "Don't Stop",
+            "time": "3:59"
+        },
+        {
+            "artist": "THE ELECTRICEELS",
+            "title": "적도",
+            "time": "3:56"
+        },
+        {
+            "artist": "Gong Joong Geu Neul",
+            "title": "계절 ",
+            "time": "4:18"
+        },
+        {
+            "artist": "Bye Bye Badman",
+            "title": "Monolove",
+            "time": "2:57"
+        },
+        {
+            "artist": "LAYBRICKS",
+            "title": "새벽",
+            "time": "4:33"
+        },
+        {
+            "artist": "Fantastic Drugstore",
+            "title": "Before Sunrise",
+            "time": "4:15"
+        },
+        {
+            "artist": "Lacuna",
+            "title": "Cake",
+            "time": "3:44"
+        },
+        {
+            "artist": "Kisnue",
+            "title": "Cool Kids",
+            "time": "3:47"
+        },
+        {
+            "artist": "DEAN, Miso",
+            "title": "Imagination",
+            "time": "2:23"
+        },
+        {
+            "artist": "punchnello",
+            "title": "낙서 (Feat. 백예린)",
+            "time": "3:07"
+        },
+        {
+            "artist": "Lee Hi",
+            "title": "머리어깨무릎발 (Feat. 원슈타인)",
+            "time": "3:34"
+        },
+        {
+            "artist": "LEEBADA",
+            "title": "ㅎㅇ (Feat. 페노메코)",
+            "time": "3:19"
+        },
+        {
+            "artist": "CODE KUNST",
+            "title": "X (Feat. LEE HI)",
+            "time": "5:12"
+        },
+        {
+            "artist": "CODE KUNST",
+            "title": "O (Feat. LEE HI)",
+            "time": "3:32"
+        },
+        {
+            "artist": "HEIZE",
+            "title": "헤픈 우연",
+            "time": "3:13"
+        },
+        {
+            "artist": "PATEKO",
+            "title": "Rainy day (Feat. ASH ISLAND, Skinny Brown)",
+            "time": "3:38"
+        },
+        {
+            "artist": "Leellarmarz",
+            "title": "Trip (Feat. hannah)",
+            "time": "3:54"
+        },
+        {
+            "artist": "BUMKEY",
+            "title": "여기저기거기 (Feat. 수퍼비)",
+            "time": "3:16"
+        },
+        {
+            "artist": "Loco",
+            "title": "지나쳐 (Feat. DEAN)",
+            "time": "3:11"
+        },
+        {
+            "artist": "DPR LIVE",
+            "title": "Hula Hoops (ft. BEENZINO, HWASA)",
+            "time": "3:27"
+        },
+        {
+            "artist": "Woo",
+            "title": "호불호 (Feat. Giriboy) (Prod. by GRAY)",
+            "time": "2:44"
+        },
+        {
+            "artist": "CODE KUNST",
+            "title": "XI (Feat. LEE HI)",
+            "time": "3:43"
+        },
+        {
+            "artist": "GRAY",
+            "title": "Party For The Night (Feat. Loco & LeeHi)",
+            "time": "3:11"
+        },
+        {
+            "artist": "HOODY",
+            "title": "안녕히 (Feat. GRAY)",
+            "time": "3:20"
+        },
+        {
+            "artist": "Beenzino",
+            "title": "Aqua Man",
+            "time": "3:46"
+        },
+        {
+            "artist": "HOODY",
+            "title": "Sunshine (Feat. Crush)",
+            "time": "3:16"
+        },
+        {
+            "artist": "DPR LIVE",
+            "title": "OUT OF CONTROL",
+            "time": "2:41"
+        },
+        {
+            "artist": "Beenzino",
+            "title": "Nike Shoes (Feat. Dynamic Duo)",
+            "time": "4:31"
+        },
+        {
+            "artist": "Giriboy",
+            "title": "호구 (Prod.by Fisherman of wybh) (feat.BrotherSu)",
+            "time": "3:50"
+        },
+        {
+            "artist": "Beenzino",
+            "title": "Boogie On & On",
+            "time": "3:31"
+        },
+        {
+            "artist": "GRAY",
+            "title": "Make Love (Feat. Zion.T)",
+            "time": "2:34"
+        },
+        {
+            "artist": "george",
+            "title": "보트",
+            "time": "3:12"
+        },
+        {
+            "artist": "Giriboy",
+            "title": "교통정리 (Feat. HEIZE)",
+            "time": "3:18"
+        },
+        {
+            "artist": "BIBI",
+            "title": "비누",
+            "time": "3:02"
+        },
+        {
+            "artist": "Lee Hi",
+            "title": "구원자 (Feat. B.I)",
+            "time": "4:03"
+        },
+        {
+            "artist": "meenoi",
+            "title": "못참아! (feat. Loco)",
+            "time": "3:07"
+        },
+        {
+            "artist": "BewhY",
+            "title": "Celebration",
+            "time": "3:16"
+        },
+        {
+            "artist": "PATEKO",
+            "title": "Rainy day(Feat. ASH ISLAND, Skinny Brown)",
+            "time": "3:38"
+        },
+        {
+            "artist": "Wilcox",
+            "title": "우린 자정을 넘어",
+            "time": "3:14"
+        },
+        {
+            "artist": "ASH ISLAND",
+            "title": "OKAY",
+            "time": "2:40"
+        },
+        {
+            "artist": "Vincent Blue",
+            "title": "비가와",
+            "time": "3:34"
+        },
+        {
+            "artist": "Dept",
+            "title": "어쩌면 또 마지막이 될까봐(Feat. Ayul)",
+            "time": "3:02"
+        },
+        {
+            "artist": "ELO",
+            "title": "OSAKA(Feat. ZICO)",
+            "time": "3:25"
+        },
+        {
+            "artist": "Rheehab",
+            "title": "너의 이름이",
+            "time": "2:50"
+        },
+        {
+            "artist": "Jeebanoff",
+            "title": "We(OUI)",
+            "time": "4:26"
+        },
+        {
+            "artist": "CHOILB",
+            "title": "사랑은 위대해!",
+            "time": "2:52"
+        },
+        {
+            "artist": "GroovyRoom, Leellarmarz",
+            "title": "도시생활",
+            "time": "3:13"
+        },
+        {
+            "artist": "Hash Swan",
+            "title": "스쳐지나가자",
+            "time": "3:50"
+        },
+        {
+            "artist": "Han Yo Han",
+            "title": "록시땅",
+            "time": "3:09"
+        },
+        {
+            "artist": "OuiOui",
+            "title": "Maybe I",
+            "time": "3:55"
+        },
+        {
+            "artist": "Giriboy",
+            "title": "아퍼 (Feat. Kid Milli, Lil tachi, 김승민, NO_EL, C JAMM)",
+            "time": "4:06"
+        },
+        {
+            "artist": "Killagramz",
+            "title": "어디 (Feat. ZICO,DEAN)",
+            "time": "3:36"
+        },
+        {
+            "artist": "sokodomo",
+            "title": "지구멸망 (Feat. Kirin)",
+            "time": "3:41"
+        },
+        {
+            "artist": "ASH ISLAND, Leellarmarz, ZENE THE ZILLA, The Quiett",
+            "title": "​BITION WAY",
+            "time": "3:46"
+        },
+        {
+            "artist": "Lee Youngji",
+            "title": "​GO HIGH (Feat. Woo, CHANGMO, The Quiett) (Prod. CODE KUNST)",
+            "time": "4:21"
+        },
+        {
+            "artist": "Bennzino",
+            "title": "Break",
+            "time": "3:04"
+        },
+        {
+            "artist": "ZENE THE ZILLA",
+            "title": "ITX (Feat. CHANGMO)",
+            "time": "3:13"
+        },
+        {
+            "artist": "MBA",
+            "title": "​Party Monster (Feat. EK, Bola, Make A Movie) (Prod. Neal)",
+            "time": "3:13"
+        },
+        {
+            "artist": "Minit",
+            "title": "​zone (Feat. Holynn, Paloalto, 123)",
+            "time": "3:28"
+        },
+        {
+            "artist": "HAON",
+            "title": "​NOAH (Feat. 박재범, Hoody)",
+            "time": "3:46"
+        },
+        {
+            "artist": "RYNO,MELOH",
+            "title": "​HELLP",
+            "time": "3:01"
+        },
+        {
+            "artist": "DPR LIVE",
+            "title": "​Cheese & Wine",
+            "time": "3:14"
+        },
+        {
+            "artist": "Kid Milli, Swings, Mad Clown",
+            "title": "​담아 (Feat. 염따, pH-1) (Prod. BOYCOLD)",
+            "time": "4:28"
+        },
+        {
+            "artist": "Sik-K",
+            "title": "​그래 그냥 내게 바로 (Skip And Kiss) (Prod. GroovyRoom)",
+            "time": "4:30"
+        },
+        {
+            "artist": "Way Ched",
+            "title": "EVERYTHING (Feat. 창모, Coogie, ASH ISLAND & BIBI)",
+            "time": "3:27"
+        },
+        {
+            "artist": "Wilcox",
+            "title": "Drive Thru",
+            "time": "3:02"
+        },
+        {
+            "artist": "leanon feat. Xitsuh",
+            "title": "drownin'",
+            "time": "2:30"
+        },
+        {
+            "artist": "Crush",
+            "title": "Lay Your Head On Me",
+            "time": "3:01"
+        },
+        {
+            "artist": "Crush",
+            "title": "Sunset",
+            "time": "3:18"
+        },
+        {
+            "artist": "Crush",
+            "title": "Beautiful",
+            "time": "3:48"
+        },
+        {
+            "artist": "Crush",
+            "title": "잊어버리지마 (Feat.태연)",
+            "time": "3:39"
+        },
+        {
+            "artist": "Crush",
+            "title": "Oasis (Feat.ZICO)",
+            "time": "3:11"
+        },
+        {
+            "artist": "DEAN",
+            "title": "D (half moon) (Feat.개코)",
+            "time": "3:49"
+        },
+        {
+            "artist": "DEAN",
+            "title": "instagram",
+            "time": "4:15"
+        },
+        {
+            "artist": "DEAN",
+            "title": "21",
+            "time": "3:27"
+        },
+        {
+            "artist": "Yerin Baek",
+            "title": "Square (2017)",
+            "time": "4:21"
+        },
+        {
+            "artist": "Yerin Baek",
+            "title": "Lovegame",
+            "time": "3:33"
+        },
+        {
+            "artist": "Yerin Baek",
+            "title": "Our love is great",
+            "time": "4:08"
+        },
+        {
+            "artist": "Yerin Baek",
+            "title": "0310",
+            "time": "3:58"
+        },
+        {
+            "artist": "Lee Hi",
+            "title": "한숨",
+            "time": "4:49"
+        },
+        {
+            "artist": "Kwon Jin Ah",
+            "title": "끝",
+            "time": "3:58"
+        },
+        {
+            "artist": "STAYC",
+            "title": "RUN2U",
+            "time": "3:33"
+        },
+        {
+            "artist": "10CM",
+            "title": "봄이 좋냐??",
+            "time": "3:25"
+        },
+        {
+            "artist": "10CM",
+            "title": "스토커",
+            "time": "4:12"
+        },
+        {
+            "artist": "10CM",
+            "title": "폰서트",
+            "time": "3:17"
+        },
+        {
+            "artist": "10CM",
+            "title": "사랑은 은하수 다방에서",
+            "time": "2:50"
+        },
+        {
+            "artist": "HYUKOH",
+            "title": "위잉위잉",
+            "time": "3:13"
+        }
+    ],
+    "indie_pop": [
+        {
+            "artist": "Joji",
+            "title": "SLOW DANCING IN THE DARK",
+            "time": "3:29"
+        },
+        {
+            "artist": "Yot Club",
+            "title": "YKWIM?",
+            "time": "3:33"
+        },
+        {
+            "artist": "Bedroom",
+            "title": "In My Head",
+            "time": "3:00"
+        },
+        {
+            "artist": "HARBOUR",
+            "title": "With Love",
+            "time": "3:37"
+        },
+        {
+            "artist": "Flora Cash",
+            "title": "You're Somebody Else",
+            "time": "3:38"
+        },
+        {
+            "artist": "Roar",
+            "title": "I Can't Handle Change",
+            "time": "3:18"
+        },
+        {
+            "artist": "Salvia Palth",
+            "title": "i was all over her",
+            "time": "2:41"
+        },
+        {
+            "artist": "Matt Maltese",
+            "title": "As the World Caves In",
+            "time": "3:38"
+        },
+        {
+            "artist": "The Neighbourhood",
+            "title": "Daddy Issues",
+            "time": "4:20"
+        },
+        {
+            "artist": "Molina",
+            "title": "Hey Kids",
+            "time": "3:54"
+        },
+        {
+            "artist": "SALES",
+            "title": "Pope is a Rockstar",
+            "time": "3:07"
+        },
+        {
+            "artist": "Current Joys",
+            "title": "Televisions",
+            "time": "3:11"
+        },
+        {
+            "artist": "Cults",
+            "title": "Always forever",
+            "time": "3:43"
+        },
+        {
+            "artist": "Arctic Monkeys",
+            "title": "505",
+            "time": "4:13"
+        },
+        {
+            "artist": "Bahamas",
+            "title": "All I've Ever Known",
+            "time": "6:16"
+        },
+        {
+            "artist": "Peach Pit",
+            "title": "Tommy's Party",
+            "time": "6:01"
+        },
+        {
+            "artist": "Summer Salt",
+            "title": "One Last Time",
+            "time": "3:37"
+        },
+        {
+            "artist": "HONNE",
+            "title": "Someone That Loves You",
+            "time": "4:05"
+        },
+        {
+            "artist": "LANY",
+            "title": "Thick And Thin",
+            "time": "3:32"
+        },
+        {
+            "artist": "HONNE",
+            "title": "Day 1 ◑",
+            "time": "3:53"
+        },
+        {
+            "artist": "HONNE",
+            "title": "It Ain't Wrong Loving You",
+            "time": "3:16"
+        },
+        {
+            "artist": "LANY",
+            "title": "Hurts",
+            "time": "3:36"
+        },
+        {
+            "artist": "HONNE",
+            "title": "3am",
+            "time": "3:48"
+        },
+        {
+            "artist": "HONNE",
+            "title": "Warm on a Cold Night",
+            "time": "4:19"
+        },
+        {
+            "artist": "LANY",
+            "title": "ILYSB (STRIPPED)",
+            "time": "4:04"
+        },
+        {
+            "artist": "LANY",
+            "title": "13",
+            "time": "3:54"
+        },
+        {
+            "artist": "HONNE",
+            "title": "Woman",
+            "time": "4:25"
+        },
+        {
+            "artist": "LANY",
+            "title": "Malibu Nights",
+            "time": "4:47"
+        },
+        {
+            "artist": "HONNE",
+            "title": "free love (dream edit)",
+            "time": "4:10"
+        },
+        {
+            "artist": "Anson Seabra",
+            "title": "Hindenburg Lover",
+            "time": "5:02"
+        },
+        {
+            "artist": "HONNE",
+            "title": "la la la that’s how it goes (dream edit)",
+            "time": "3:40"
+        },
+        {
+            "artist": "LANY",
+            "title": "nobody else",
+            "time": "3:17"
+        },
+        {
+            "artist": "92914",
+            "title": "Starlight",
+            "time": "4:33"
+        },
+        {
+            "artist": "HONNE",
+            "title": "gone gone gone (dream edit)",
+            "time": "3:09"
+        },
+        {
+            "artist": "Pink Sweat$",
+            "title": "Lows",
+            "time": "3:16"
+        },
+        {
+            "artist": "Before You Exit",
+            "title": "Same Sun",
+            "time": "4:12"
+        },
+        {
+            "artist": "Anson Seabra",
+            "title": "Trying My Best",
+            "time": "3:42"
+        },
+        {
+            "artist": "Anson Seabra",
+            "title": "That’s Us",
+            "time": "4:30"
+        },
+        {
+            "artist": "Rhye",
+            "title": "The Fall (live)",
+            "time": "4:29"
+        },
+        {
+            "artist": "HONNE",
+            "title": "no song without you (london session)",
+            "time": "3:12"
+        },
+        {
+            "artist": "Anson Seabra",
+            "title": "Emerald Eyes",
+            "time": "3:59"
+        },
+        {
+            "artist": "Daniel Caesar",
+            "title": "Blessed",
+            "time": "4:01"
+        },
+        {
+            "artist": "Cigarettes After Sex",
+            "title": "You're the Only Good Thing In My Life",
+            "time": "4:35"
+        },
+        {
+            "artist": "Bruno Major",
+            "title": "Easily",
+            "time": "3:30"
+        },
+        {
+            "artist": "Bruno Major",
+            "title": "Regent’s Park",
+            "time": "2:57"
+        },
+        {
+            "artist": "Softy",
+            "title": "Candle lit dinner",
+            "time": "3:36"
+        },
+        {
+            "artist": "Alt Bloom",
+            "title": "October Eyes",
+            "time": "2:27"
+        },
+        {
+            "artist": "Omar Apollo",
+            "title": "Brakelights",
+            "time": "2:48"
+        },
+        {
+            "artist": "McClenney",
+            "title": "Just Stay",
+            "time": "3:11"
+        },
+        {
+            "artist": "Benny Sings",
+            "title": "Realize",
+            "time": "3:05"
+        },
+        {
+            "artist": "Gracie Abrams",
+            "title": "21",
+            "time": "3:05"
+        },
+        {
+            "artist": "Corinne Bailey Rae",
+            "title": "Put Your Records On",
+            "time": "3:35"
+        },
+        {
+            "artist": "The Walters",
+            "title": "Sweet Marie",
+            "time": "2:17"
+        },
+        {
+            "artist": "Eloise",
+            "title": "Subside",
+            "time": "3:09"
+        },
+        {
+            "artist": "Kings of Convenience",
+            "title": "Misread (Acoustic Session)",
+            "time": "3:05"
+        },
+        {
+            "artist": "Feng Suave",
+            "title": "Venus Flytrap",
+            "time": "3:42"
+        },
+        {
+            "artist": "HONNE",
+            "title": "It Ain't Wrong Loving You",
+            "time": "3:16"
+        },
+        {
+            "artist": "Sunset Rollercoaster",
+            "title": "My Jinji",
+            "time": "6:40"
+        },
+        {
+            "artist": "Joji",
+            "title": "Rain On Me",
+            "time": "2:53"
+        },
+        {
+            "artist": "Phora",
+            "title": "Holding On",
+            "time": "3:12"
+        },
+        {
+            "artist": "JC Stewart",
+            "title": "The Wrong Ones",
+            "time": "2:47"
+        },
+        {
+            "artist": "Rhye",
+            "title": "The fall",
+            "time": "3:44"
+        },
+        {
+            "artist": "Cigarettes After Sex",
+            "title": "Truly",
+            "time": "4:04"
+        },
+        {
+            "artist": "Cigarettes After Sex",
+            "title": "Sweet",
+            "time": "4:52"
+        },
+        {
+            "artist": "Rhye",
+            "title": "Open",
+            "time": "3:37"
+        },
+        {
+            "artist": "Rhye",
+            "title": "Song for you",
+            "time": "3:58"
+        },
+        {
+            "artist": "Cigarettes After Sex",
+            "title": "K.",
+            "time": "5:20"
+        },
+        {
+            "artist": "Cigarettes After Sex",
+            "title": "Apocalypse",
+            "time": "4:50"
+        },
+        {
+            "artist": "Rhye",
+            "title": "Wicked dreams",
+            "time": "4:31"
+        },
+        {
+            "artist": "Rhye",
+            "title": "Beautiful",
+            "time": "4:22"
+        },
+        {
+            "artist": "Rhye",
+            "title": "Please",
+            "time": "3:35"
+        },
+        {
+            "artist": "Cigarettes After Sex",
+            "title": "Nothing’s gonna hurt you baby",
+            "time": "4:46"
+        },
+        {
+            "artist": "Cigarettes After Sex",
+            "title": "Affection",
+            "time": "5:11"
+        },
+        {
+            "artist": "Cigarettes After Sex",
+            "title": "Crush",
+            "time": "4:26"
+        },
+        {
+            "artist": "Rhye",
+            "title": "Stay safe",
+            "time": "4:52"
+        },
+        {
+            "artist": "Bonobo, Rhye",
+            "title": "Break apart",
+            "time": "4:34"
+        },
+        {
+            "artist": "LANY",
+            "title": "cowboy in LA",
+            "time": "3:33"
+        },
+        {
+            "artist": "No Rome",
+            "title": "Narcissist (ft.The 1975)",
+            "time": "3:16"
+        },
+        {
+            "artist": "Phoenix",
+            "title": "Fior Di Latte",
+            "time": "4:03"
+        },
+        {
+            "artist": "Sasha Sloan",
+            "title": "Is It Just Me?",
+            "time": "2:34"
+        },
+        {
+            "artist": "Troye Sivan",
+            "title": "Strawberries & Cigarettes",
+            "time": "3:21"
+        },
+        {
+            "artist": "Conan Gray",
+            "title": "Wish You Were Sober",
+            "time": "2:48"
+        },
+        {
+            "artist": "LANY",
+            "title": "Super Far",
+            "time": "3:23"
+        },
+        {
+            "artist": "Shoffy",
+            "title": "Cool Again",
+            "time": "3:12"
+        },
+        {
+            "artist": "BETWEEN FRIENDS",
+            "title": "iloveyou",
+            "time": "2:48"
+        },
+        {
+            "artist": "Alexander 23",
+            "title": "Mars",
+            "time": "2:33"
+        },
+        {
+            "artist": "SG Lewis, Clairo",
+            "title": "Throwaway",
+            "time": "3:00"
+        },
+        {
+            "artist": "Lauv",
+            "title": "Love Somebody",
+            "time": "2:22"
+        },
+        {
+            "artist": "ROLE MODEL",
+            "title": "say it first",
+            "time": "2:39"
+        },
+        {
+            "artist": "LANY",
+            "title": "anything 4 u",
+            "time": "3:14"
+        },
+        {
+            "artist": "Daniel Caesar",
+            "title": "Death & Taxes",
+            "time": "5:05"
+        },
+        {
+            "artist": "Daniel Caesar",
+            "title": "Get You (feat. Kali Uchis)",
+            "time": "4:38"
+        },
+        {
+            "artist": "Daniel Caesar",
+            "title": "Best Part (feat. H.E.R.)",
+            "time": "3:29"
+        },
+        {
+            "artist": "FKJ, Tom Misch",
+            "title": "Losing my way",
+            "time": "4:19"
+        },
+        {
+            "artist": "Tom Misch",
+            "title": "It runs through me",
+            "time": "4:21"
+        },
+        {
+            "artist": "Tom Misch",
+            "title": "South of the river",
+            "time": "4:29"
+        },
+        {
+            "artist": "FKJ, Masego",
+            "title": "Tadow",
+            "time": "5:01"
+        },
+        {
+            "artist": "FKJ",
+            "title": "Die with a smile",
+            "time": "4:12"
+        },
+        {
+            "artist": "Tom Misch",
+            "title": "Lost in Paris",
+            "time": "3:14"
+        },
+        {
+            "artist": "FKJ",
+            "title": "We ain’t feeling time",
+            "time": "4:03"
+        },
+        {
+            "artist": "Tom Misch",
+            "title": "Disco yes",
+            "time": "4:40"
+        },
+        {
+            "artist": "Tom Misch",
+            "title": "Watch me dance",
+            "time": "5:03"
+        },
+        {
+            "artist": "FKJ",
+            "title": "Ylang Ylang",
+            "time": "3:32"
+        },
+        {
+            "artist": "Jorja Smith",
+            "title": "Teenage Fantasy",
+            "time": "3:46"
+        },
+        {
+            "artist": "Jorja Smith",
+            "title": "Blue Lights",
+            "time": "4:10"
+        },
+        {
+            "artist": "Joji",
+            "title": "Sanctuary",
+            "time": "3:00"
+        },
+        {
+            "artist": "Pink Sweats",
+            "title": "At My Worst",
+            "time": "2:50"
+        },
+        {
+            "artist": "Khalid",
+            "title": "Talk",
+            "time": "3:17"
+        },
+        {
+            "artist": "Lauv",
+            "title": "Never not",
+            "time": "3:28"
+        },
+        {
+            "artist": "Khalid",
+            "title": "Location",
+            "time": "3:37"
+        },
+        {
+            "artist": "Ruel",
+            "title": "Painkiller",
+            "time": "3:33"
+        },
+        {
+            "artist": "Khalid",
+            "title": "Better",
+            "time": "3:49"
+        },
+        {
+            "artist": "Troye Sivan",
+            "title": "youth",
+            "time": "3:05"
+        },
+        {
+            "artist": "MAX",
+            "title": "Checklist (feat. Chromeo)",
+            "time": "2:15"
+        },
+        {
+            "artist": "Niall Horan",
+            "title": "Nice To Meet Ya",
+            "time": "2:38"
+        },
+        {
+            "artist": "Liam Payne",
+            "title": "Stack It Up (feat. A Boogie Wit Da Hoodie)",
+            "time": "2:46"
+        },
+        {
+            "artist": "Raye",
+            "title": "Love Me Again",
+            "time": "3:09"
+        },
+        {
+            "artist": "KIDDO",
+            "title": "Dead Alive",
+            "time": "2:25"
+        },
+        {
+            "artist": "Kav Verhouzer",
+            "title": "Get What You Came For (feat. BullySongs)",
+            "time": "3:14"
+        },
+        {
+            "artist": "Embody",
+            "title": "Be Cool (feat. Bailey, Marco Foster)",
+            "time": "3:29"
+        },
+        {
+            "artist": "Galantis",
+            "title": "Satisfied (feat. MAX)",
+            "time": "2:36"
+        },
+        {
+            "artist": "Ofenbach",
+            "title": "Paradise (feat. Benjamin Ingrosso)",
+            "time": "2:34"
+        },
+        {
+            "artist": "Chromeo",
+            "title": "Just Friends (feat. Amber Mark)",
+            "time": "3:50"
+        },
+        {
+            "artist": "Seeb",
+            "title": "Fade Out",
+            "time": "3:16"
+        },
+        {
+            "artist": "Guy Sebastian",
+            "title": "Choir",
+            "time": "3:28"
+        },
+        {
+            "artist": "Faustix",
+            "title": "Lose Myself",
+            "time": "3:25"
+        },
+        {
+            "artist": "Bishop Briggs",
+            "title": "CHAMPION",
+            "time": "2:53"
+        },
+        {
+            "artist": "Charli XCX",
+            "title": "Blame It On Your Love (feat. Lizzo)",
+            "time": "3:10"
+        },
+        {
+            "artist": "Basic Tape",
+            "title": "So Good",
+            "time": "2:47"
+        },
+        {
+            "artist": "Jax Jones",
+            "title": "You Don't Know Me (feat. Raye)",
+            "time": "3:34"
+        },
+        {
+            "artist": "HRVY",
+            "title": "Million Ways",
+            "time": "2:49"
+        },
+        {
+            "artist": "Foley",
+            "title": "Cola",
+            "time": "2:59"
+        },
+        {
+            "artist": "Samuel Daayata",
+            "title": "Throw Popcorn (feat. Isac Elliot)",
+            "time": "3:13"
+        },
+        {
+            "artist": "Against The Current",
+            "title": "Voices",
+            "time": "3:24"
+        },
+        {
+            "artist": "Alex Alexander",
+            "title": "Body on Me",
+            "time": "3:32"
+        },
+        {
+            "artist": "Men I Trust",
+            "title": "Lauren",
+            "time": "3:38"
+        },
+        {
+            "artist": "Family of the Year",
+            "title": "Hero",
+            "time": "3:10"
+        },
+        {
+            "artist": "Yung Bae",
+            "title": "Revolving",
+            "time": "2:54"
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Dang! (feat. Anderson .Paak)",
+            "time": "3:10"
+        },
+        {
+            "artist": "Gallant",
+            "title": "Weight in Gold",
+            "time": "3:23"
+        },
+        {
+            "artist": "Anderson .Paak",
+            "title": "Make It Better (feat. Smokey Robinson)",
+            "time": "3:39"
+        },
+        {
+            "artist": "Peggy Gou",
+            "title": "Starry Night",
+            "time": "6:38"
+        },
+        {
+            "artist": "Mullally",
+            "title": "Sweet Coffee (feat. Bassette)",
+            "time": "3:22"
+        },
+        {
+            "artist": "Easy life",
+            "title": "Dead Celebrities",
+            "time": "3:16"
+        },
+        {
+            "artist": "BENEE",
+            "title": "Glitter",
+            "time": "3:00"
+        },
+        {
+            "artist": "Mae Muller",
+            "title": "Therapist",
+            "time": "3:03"
+        },
+        {
+            "artist": "Conan Gray",
+            "title": "Generation Why",
+            "time": "3:39"
+        },
+        {
+            "artist": "Heaven Falls",
+            "title": "Fall on me",
+            "time": "4:00"
+        },
+        {
+            "artist": "Inhaler",
+            "title": "Ice Cream Sundae",
+            "time": "3:43"
+        },
+        {
+            "artist": "Matt Woods",
+            "title": "Nothing Less",
+            "time": "3:43"
+        },
+        {
+            "artist": "P.T. Adamczyk",
+            "title": "The Rebel Path",
+            "time": "4:10"
+        },
+        {
+            "artist": "Still Corners",
+            "title": "The Trip",
+            "time": "6:14"
+        },
+        {
+            "artist": "GAYLE",
+            "title": "abcdefu",
+            "time": "2:48"
+        },
+        {
+            "artist": "H.E.R.",
+            "title": "Comfortable",
+            "time": "4:15"
+        },
+        {
+            "artist": "H.E.R.",
+            "title": "Focus",
+            "time": "3:20"
+        },
+        {
+            "artist": "Bazzi",
+            "title": "I.F.L.Y",
+            "time": "2:45"
+        },
+        {
+            "artist": "Bazzi",
+            "title": "Mine",
+            "time": "2:11"
+        },
+        {
+            "artist": "Bazzi",
+            "title": "Beautiful (Feat. Camila Cabello)",
+            "time": "3:00"
+        },
+        {
+            "artist": "Andra Day",
+            "title": "Rise Up",
+            "time": "4:13"
+        },
+        {
+            "artist": "Andra Day",
+            "title": "City Burns",
+            "time": "4:53"
+        }
+    ]
+}

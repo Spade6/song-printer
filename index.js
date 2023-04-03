@@ -1,13 +1,13 @@
 "use strict";
-const path = require("path");
-const fs = require("fs");
+import path from "path";
+import fs from "fs";
 import ESCPOSImageProcessor from "@printurmessages/escpos-image-processor";
-const sharp = require("sharp");
-const escpos = require("escpos");
-var gm = require("gm");
+import sharp from "sharp";
+import escpos  from "escpos";
+import gm  from "gm";
 // install escpos-usb adapter module manually
-escpos.USB = require("escpos-usb");
-
+import USB from "escpos-usb";
+escpos.USB = USB;
 // Select the adapter based on your printer type
 const device = new escpos.USB(0x1504, 0x002b);
 // const device  = new escpos.Network('localhost');
