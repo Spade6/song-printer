@@ -1,5 +1,5 @@
 const fs = require('fs');
-const { createCanvas, loadImage } = require('canvas');
+const { createCanvas, loadImage, registerFont } = require('canvas');
 
 async function playlist() {
     // canvas 설정
@@ -140,12 +140,12 @@ async function playlist() {
 
     return new Promise((resolve, reject) => {
         // font style 설정
-        var font_other = 'bold 16pt Courier New';
-        var font_song = 'bold 14pt Courier New';
-        // var font_text_songs = "500 14pt Courier New"; // 텍스트 폰트
-        var font_artist = 'bold 13pt Courier New';
-        var font_line = '18pt Courier New'; // ----- 폰트
-        var font_under_barcode = 'bold 10pt Courier New';
+        var font_other = 'bold 16pt Courier New, NanumGothic';
+        var font_song = 'bold 14pt Courier New, NanumGothic';
+        // var font_text_songs = "500 14pt Courier New, NanumGothic"; // 텍스트 폰트
+        var font_artist = 'bold 13pt Courier New, NanumGothic';
+        var font_line = '18pt Courier New, NanumGothic'; // ----- 폰트
+        var font_under_barcode = 'bold 10pt Courier New, NanumGothic';
 
         // 텍스트, 포지션 정하기
         var padding = 20; // 노래 번호의 x 위치
@@ -327,3 +327,5 @@ function random3digit() {
 }
 
 exports.playlist = playlist;
+
+playlist();
