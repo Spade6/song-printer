@@ -10,6 +10,3 @@ for line in rdr:
   print('    "time": "{}"'.format(line[3]))
   print("},")
   
-
-
-
