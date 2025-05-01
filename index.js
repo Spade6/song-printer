@@ -9,7 +9,7 @@ import gm  from "gm";
 import USB from "escpos-usb";
 escpos.USB = USB;
 // Select the adapter based on your printer type
-const device = new escpos.USB(0x1504, 0x002b);
+const device = new escpos.USB(0x1fc9, 0x2016); //0x1504, 0x002b
 // const device  = new escpos.Network('localhost');
 // const device  = new escpos.Serial('/dev/usb/lp0');
 
