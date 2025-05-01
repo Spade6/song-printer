@@ -38,7 +38,6 @@ async function listSerialPorts() {
                             let userId = data.toString().trim();
                             userId = userId.split('ticketId=')[1];
                             console.log(userId);
-                            ticketId = userId;
                             // check already added
                             let alreadyAdded = false;
                             listUser.forEach((user) => {
