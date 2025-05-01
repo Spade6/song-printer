@@ -327,5 +327,3 @@ function random3digit() {
 }
 
 exports.playlist = playlist;
-
-playlist();

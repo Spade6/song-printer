@@ -120,6 +120,7 @@ const print = (tux) => {
         // escpos.Image.load('./logo.png', function (logo) {
         device.open(function () {
             printer
+                .align('CT')
                 .raster(image)
                 .size(1, 1)
                 // .raster(logo)
