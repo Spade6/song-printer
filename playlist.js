@@ -134,7 +134,11 @@ async function playlist() {
             min += parseInt(sec / 60);
             sec = sec % 60;
         }
-        const total_str = String(min) + ':' + String(sec);
+        // formatting mm:ss
+        let total_str = String(min) + ':' + String(sec);
+        if (sec < 10) {
+            total_str = String(min) + ':0' + String(sec);
+        }
         return total_str;
     }
 
@@ -171,7 +175,7 @@ async function playlist() {
         const today_text = get_date_str();
         context.font = font_other;
         context.fillText(
-            'ORDER #' + random4digit() + ' FOR RANDOM DIVERSITY',
+            'ORDER #' + random4digit() + ' FOR SOUND DIVERSITY',
             padding,
             y_position - text_space_height * 5
         );
@@ -210,9 +214,9 @@ async function playlist() {
             context.font = font_song;
             var title = song_list[i]['title'];
             var artist = song_list[i]['artist'];
-            // var time = song_list[i]['time']; // 나중에 이걸로 음악 시간 가져오기
-            // amt_arr.push(time); // 음악 재생시간 amt_arr 에 저장
-            var time = '0:00';
+            var time = song_list[i]['time']; // 나중에 이걸로 음악 시간 가져오기
+            amt_arr.push(time); // 음악 재생시간 amt_arr 에 저장
+            // var time = '0:00';
             var time_width = context.measureText(time).width;
 
             // 번호 매기기
@@ -261,19 +265,9 @@ async function playlist() {
             padding,
             y_position + text_space_height * 2
         );
-        var amt_arr = [
-            '3:15',
-            '3:28',
-            '4:02',
-            '3:11',
-            '1:44',
-            '2:15',
-            '3:43',
-            '3:11',
-            '8:03',
-            '6:13',
-        ]; // 임시
+
         const total_str = get_total_amt(amt_arr);
+        console.log('total_str', total_str);
         const total_str_width = context.measureText(total_str).width;
         context.fillText(
             total_str,
@@ -327,3 +321,5 @@ function random3digit() {
 }
 
 exports.playlist = playlist;
+
+playlist();
